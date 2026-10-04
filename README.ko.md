@@ -162,6 +162,17 @@ macOS 14.0 이상이며, Apple 실리콘과 Intel Mac 모두에서 동작합니�
 
 버그를 발견했거나 궁금한 점이 있다면 [GitHub Issues](https://github.com/studiojin-dev/MenuDart-Public/issues)에 남겨 주세요. macOS 버전과 MenuDart 버전을 함께 적어 주시면 도움이 됩니다.
 
+## 사용권 계약
+
+MenuDart를 사용하려면 [최종 사용자 사용권 계약](EULA.ko.md)([English](EULA.md))에 동의해야 합니다. 처음 실행할 때 동의를 받습니다. 구매 전에 14일 무료 체험을 제공하므로 단순 변심에 의한 환불은 되지 않으며, MenuDart가 안내된 대로 동작하지 않는 경우의 환불은 계약 제7조를 따릅니다.
+
+## 사업자 정보
+
+상호: 스튜디오진(Studiojin) · 대표자: 김정진  
+사업자등록번호: 730-50-01333 · 통신판매업 신고번호: 2026-화성병점-0744  
+사업장 소재지: 경기도 화성시 병점구 영통로 59, 4층 407호 B16호(반월동, 현대프라자)  
+이메일: support@studiojin.dev
+
 ---
 
-© StudioJin
+© 2026 Studiojin

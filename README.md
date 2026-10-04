@@ -160,6 +160,17 @@ No. MenuDart doesn't change your menu bar at all. It shows what's there in a pop
 
 Found a bug or have a question? Please open an issue on [GitHub Issues](https://github.com/studiojin-dev/MenuDart-Public/issues). It helps to include your macOS version and your MenuDart version.
 
+## License agreement
+
+Using MenuDart requires agreeing to the [End User License Agreement](EULA.md) ([한국어](EULA.ko.md)). MenuDart asks for this on first launch. A 14-day free trial is available before purchase, so purchases aren't refundable for change of mind; see Section 7 of the agreement for refunds when MenuDart doesn't work as described.
+
+## Business information
+
+Studiojin (스튜디오진) · Representative: Jeongjin Kim  
+Business registration number: 730-50-01333 · Mail-order business registration number: 2026-화성병점-0744  
+407Ho-B16, 59 Yeongtong-ro, Byeongjeom-gu, Hwaseong-si, Gyeonggi-do, 18337, Republic of Korea  
+support@studiojin.dev
+
 ---
 
-© StudioJin
+© 2026 Studiojin
