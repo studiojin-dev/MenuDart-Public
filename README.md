@@ -30,7 +30,7 @@ I also wanted an icon's own menu to open somewhere more convenient, but I couldn
 
 A 20-second walkthrough of both popups, with captions.
 
-https://github.com/user-attachments/assets/7b612677-d726-4fb5-b2e5-5839f9c75843
+https://github.com/user-attachments/assets/064d5d3d-26de-42b0-9fdb-1380fe8885ee
 
 ## What it does
 
@@ -67,7 +67,7 @@ Gathers the icons on the right side of the menu bar (status items and menu extra
 **How the pointer flight works.** After you pick an icon, its own menu still opens at its normal place under the menu bar. MenuDart does not move that menu and does not show it inside the popup. What it does is move your pointer onto the menu once it has opened, so you don't have to travel to the top of the screen. You can choose a pointer effect for the trip: Rocket, Trail, Dart, or No Effect.
 
 <p align="center">
-  <img src="docs/images/pointer-on-menu.png" alt="After choosing Docker in the grid, its menu is open under the menu bar and the pointer is already on it" width="720">
+  <img src="docs/images/pointer-on-menu.png" alt="After choosing MenuDart in the grid, its menu is open under the menu bar and the pointer is already on it" width="720">
 </p>
 
 ## Keyboard reference

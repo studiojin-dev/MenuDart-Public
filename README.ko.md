@@ -32,7 +32,7 @@
 
 두 팝업을 20초 동안 보여 주는 자막 포함 영상입니다(화면은 영어).
 
-https://github.com/user-attachments/assets/7b612677-d726-4fb5-b2e5-5839f9c75843
+https://github.com/user-attachments/assets/064d5d3d-26de-42b0-9fdb-1380fe8885ee
 
 ## 주요 기능
 
@@ -69,7 +69,7 @@ MenuDart는 전역 단축키로 두 가지 팝업을 엽니다. 메뉴 막대의
 **포인터 이동 방식.** 아이콘을 고르면 그 아이콘의 메뉴는 여전히 메뉴 막대 아래 원래 위치에서 열립니다. MenuDart는 그 메뉴를 옮기지 않으며 팝업 안에 보여 주지도 않습니다. 대신 메뉴가 열리면 포인터를 그 메뉴 위로 옮겨, 화면 맨 위까지 직접 이동하지 않아도 되게 합니다. 이동하는 동안 보여 줄 포인터 효과는 로켓, 궤적, 다트, 효과 없음 중에서 고를 수 있습니다.
 
 <p align="center">
-  <img src="docs/images/pointer-on-menu.png" alt="격자에서 Docker를 고른 뒤, 메뉴 막대 아래에 열린 메뉴 위에 포인터가 이미 올라가 있는 모습" width="720">
+  <img src="docs/images/pointer-on-menu.png" alt="격자에서 MenuDart를 고른 뒤, 메뉴 막대 아래에 열린 메뉴 위에 포인터가 이미 올라가 있는 모습" width="720">
 </p>
 
 ## 키보드 사용법
