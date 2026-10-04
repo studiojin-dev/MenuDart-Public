@@ -32,11 +32,7 @@
 
 두 팝업을 20초 동안 보여 주는 자막 포함 영상입니다(화면은 영어).
 
-<p align="center">
-  <a href="docs/media/menudart-demo.mp4"><img src="docs/images/demo-video-poster.png" alt="MenuDart 데모 영상 재생: 메뉴 막대 아이콘 격자 팝업과 자막이 보이는 장면" width="720"></a>
-</p>
-
-<p align="center"><sub>눌러서 재생하세요(MP4, 21초, 소리 없음).</sub></p>
+https://github.com/user-attachments/assets/7b612677-d726-4fb5-b2e5-5839f9c75843
 
 ## 주요 기능
 

@@ -30,11 +30,7 @@ I also wanted an icon's own menu to open somewhere more convenient, but I couldn
 
 A 20-second walkthrough of both popups, with captions.
 
-<p align="center">
-  <a href="docs/media/menudart-demo.mp4"><img src="docs/images/demo-video-poster.png" alt="Play the MenuDart demo video: the Menu Bar Icons grid popup with the caption “Menu Bar Icons — every icon in one grid, even the hidden ones”" width="720"></a>
-</p>
-
-<p align="center"><sub>Click to play (MP4, 21 seconds, no sound).</sub></p>
+https://github.com/user-attachments/assets/7b612677-d726-4fb5-b2e5-5839f9c75843
 
 ## What it does
 
