@@ -1,5 +1,17 @@
 # Changelog
 
+## 1.0.1 — 2026-10-05
+
+- Before you buy, MenuDart lets you know about a running sale and when it ends, at most once a day. You can turn it off for that sale.
+- During a sale, Buy buttons open checkout with the discount code already filled in.
+
+## 1.0.1 — 2026-10-05 (한국어)
+
+- 구매 전이라면 할인 행사가 진행 중일 때 할인 내용과 종료 시각을 하루에 한 번까지 알려 줍니다. 해당 할인은 다시 보지 않도록 끌 수 있습니다.
+- 할인 기간에는 구매 버튼을 누르면 할인 코드가 입력된 결제 화면이 열립니다.
+
+---
+
 ## 1.0.0 — 2026-10-05
 
 First release.

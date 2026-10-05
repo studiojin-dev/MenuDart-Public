@@ -6,6 +6,21 @@
     <description>MenuDart updates</description>
     <language>en</language>
     <item>
+      <title>MenuDart 1.0.1</title>
+      <pubDate>Mon, 05 Oct 2026 09:57:26 +0900</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <h2>MenuDart 1.0.1</h2>
+        <ul>
+          <li>Before you buy, MenuDart lets you know about a running sale and when it ends, at most once a day. You can turn it off for that sale.</li>
+          <li>During a sale, Buy buttons open checkout with the discount code already filled in.</li>
+        </ul>
+      ]]></description>
+      <enclosure url="https://github.com/studiojin-dev/MenuDart-Public/releases/download/v1.0.1/MenuDart-1.0.1.dmg" sparkle:edSignature="itdVfaRUiQ4zc1dmtM+45xgLD0iXD/130lcyRt7JodLDCYLyNXEgPf2cOEcSgcuMHoqnFHHOKx1YG7x5VYJoCg==" length="3364442" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>MenuDart 1.0.0</title>
       <pubDate>Mon, 05 Oct 2026 09:14:17 +0900</pubDate>
       <sparkle:version>1</sparkle:version>
