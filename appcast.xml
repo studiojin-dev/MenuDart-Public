@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>MenuDart</title>
+    <link>https://github.com/studiojin-dev/MenuDart-Public</link>
+    <description>MenuDart updates</description>
+    <language>en</language>
+    <item>
+      <title>MenuDart 1.0.0</title>
+      <pubDate>Mon, 05 Oct 2026 09:14:17 +0900</pubDate>
+      <sparkle:version>1</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <h2>MenuDart 1.0.0</h2>
+        <p>First release.</p>
+        <ul>
+          <li>App Menus popup: the frontmost app's menus next to the pointer, even when they don't fit in the menu bar.</li>
+          <li>Menu Bar Icons popup: every menu bar icon in a grid, including ones hidden by a crowded menu bar or the notch.</li>
+          <li>Available in 11 languages: English, Korean, Japanese, Simplified Chinese, Traditional Chinese, Portuguese (Brazil), Spanish, Hindi, Italian, German and French.</li>
+          <li>14-day free trial, then a one-time license.</li>
+        </ul>
+      ]]></description>
+      <enclosure url="https://github.com/studiojin-dev/MenuDart-Public/releases/download/v1.0.0/MenuDart-1.0.0.dmg" sparkle:edSignature="yZzh6TjrzHY0scXNc4+OkSahlx6whC7edJm3Nu4cggRtgLB8PD+o+WXgIGSoKCnNeIpGcv/OruWuNOu59OqdAw==" length="3327613" type="application/octet-stream"/>
+    </item>
+  </channel>
+</rss>

@@ -104,7 +104,7 @@ The Space and Return click assignments can be swapped in Settings. The pointer w
 - **Menu Bar Icons grid.** Set the number of icons per row (1 to 16) and where the pointer lands when the popup opens (center of the first item or center of the popup).
 - **Pointer effect.** Rocket, Trail, Dart, or No Effect.
 - **Appearance.** System, Light, or Dark. On macOS 26 and later the popups use Liquid Glass automatically.
-- **Language.** English or Korean. The app restarts when you change it.
+- **Language.** English, Korean, Japanese, Simplified Chinese, Traditional Chinese, Portuguese (Brazil), Spanish, Hindi, Italian, German and French. The app restarts when you change it.
 
 ## Requirements and permissions
 
