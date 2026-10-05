@@ -6,6 +6,20 @@
     <description>MenuDart updates</description>
     <language>en</language>
     <item>
+      <title>MenuDart 1.0.2</title>
+      <pubDate>Mon, 05 Oct 2026 11:02:43 +0900</pubDate>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <h2>MenuDart 1.0.2</h2>
+        <ul>
+          <li>New pointer effect: Ddoee, a caped cat that flies your pointer to the menu. Choose it in Settings → Menu Bar Icons → Effect.</li>
+        </ul>
+      ]]></description>
+      <enclosure url="https://github.com/studiojin-dev/MenuDart-Public/releases/download/v1.0.2/MenuDart-1.0.2.dmg" sparkle:edSignature="9zKOlg/IpeOnJyXfFV1Cbwj6vFR4xtqFwXAIrQp0W9UB/576WGOKFdsM9+EDXbmqKimg7o+HjxRh9zclxgL8BQ==" length="3396980" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>MenuDart 1.0.1</title>
       <pubDate>Mon, 05 Oct 2026 09:57:26 +0900</pubDate>
       <sparkle:version>2</sparkle:version>

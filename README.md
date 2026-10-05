@@ -64,7 +64,7 @@ Gathers the icons on the right side of the menu bar (status items and menu extra
 - On-screen icons are listed first. System icons keep their menu bar order.
 - If clicking an icon changes nothing, a small toast in the popup tells you.
 
-**How the pointer flight works.** After you pick an icon, its own menu still opens at its normal place under the menu bar. MenuDart does not move that menu and does not show it inside the popup. What it does is move your pointer onto the menu once it has opened, so you don't have to travel to the top of the screen. You can choose a pointer effect for the trip: Rocket, Trail, Dart, or No Effect.
+**How the pointer flight works.** After you pick an icon, its own menu still opens at its normal place under the menu bar. MenuDart does not move that menu and does not show it inside the popup. What it does is move your pointer onto the menu once it has opened, so you don't have to travel to the top of the screen. You can choose a pointer effect for the trip: Rocket, Trail, Dart, Ddoee (a flying cat), or No Effect.
 
 <p align="center">
   <img src="docs/images/pointer-on-menu.png" alt="After choosing MenuDart in the grid, its menu is open under the menu bar and the pointer is already on it" width="720">
@@ -102,7 +102,7 @@ The Space and Return click assignments can be swapped in Settings. The pointer w
 - **Shortcuts.** There are none until you set them. The setup guide offers one-click defaults: <kbd>⌥</kbd><kbd>⌘</kbd><kbd>[</kbd> for App Menus, <kbd>⌥</kbd><kbd>⌘</kbd><kbd>]</kbd> for Menu Bar Icons, and an optional <kbd>⌥</kbd><kbd>⌘</kbd><kbd>\\</kbd> for Settings. You can record any combination that includes at least one modifier key.
 - **Conflict check.** MenuDart warns you if a combination is already used by another MenuDart action or a macOS system shortcut, and lets you move it, register it anyway, or cancel.
 - **Menu Bar Icons grid.** Set the number of icons per row (1 to 16) and where the pointer lands when the popup opens (center of the first item or center of the popup).
-- **Pointer effect.** Rocket, Trail, Dart, or No Effect.
+- **Pointer effect.** Rocket, Trail, Dart, Ddoee (a flying cat), or No Effect.
 - **Appearance.** System, Light, or Dark. On macOS 26 and later the popups use Liquid Glass automatically.
 - **Language.** English, Korean, Japanese, Simplified Chinese, Traditional Chinese, Portuguese (Brazil), Spanish, Hindi, Italian, German and French. The app restarts when you change it.
 

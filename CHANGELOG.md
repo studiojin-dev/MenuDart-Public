@@ -1,5 +1,15 @@
 # Changelog
 
+## 1.0.2 — 2026-10-05
+
+- New pointer effect: **Ddoee**, a caped cat that flies your pointer to the menu. Choose it in Settings → Menu Bar Icons → Effect.
+
+## 1.0.2 — 2026-10-05 (한국어)
+
+- 새 포인터 효과 **또이**: 망토를 두른 고양이가 포인터를 메뉴까지 날라다 줍니다. 설정 → 메뉴 막대 아이콘 → 효과에서 고를 수 있습니다.
+
+---
+
 ## 1.0.1 — 2026-10-05
 
 - Before you buy, MenuDart lets you know about a running sale and when it ends, at most once a day. You can turn it off for that sale.
