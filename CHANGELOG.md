@@ -1,5 +1,21 @@
 # Changelog
 
+## 1.0.4 — 2026-10-06
+
+- The **Menu Bar Icons** popup opens instantly. MenuDart keeps the icon list ready in the background (when apps open or quit, and when your Mac wakes) and refreshes it while the popup is open, with an "Updating…" badge in the title.
+- New option in Settings → Menu Bar Icons: **Refresh Icons Periodically**, every 1 to 30 minutes. It's off by default.
+- New option in Settings → General: **Hide Dock Icon When Settings Closes**. It's on by default.
+- Buy buttons now open checkout through `studiojin.dev`, so partners who referred you get credit. See the [Privacy Policy](PRIVACY.md).
+
+## 1.0.4 — 2026-10-06 (한국어)
+
+- **메뉴 막대 아이콘** 팝업이 바로 열립니다. MenuDart가 아이콘 목록을 백그라운드에서 미리 준비해 두고(앱을 열거나 닫을 때, Mac이 잠자기에서 깨어날 때), 팝업이 열려 있는 동안 제목에 "업데이트 중…"을 표시하며 새로 고칩니다.
+- 설정 → 메뉴 막대 아이콘에 **아이콘 목록 주기적으로 새로 고침** 옵션이 생겼습니다(1~30분). 기본값은 꺼짐입니다.
+- 설정 → 일반에 **설정 창을 닫으면 Dock에서 아이콘 숨기기** 옵션이 생겼습니다. 기본값은 켜짐입니다.
+- 구매 버튼이 `studiojin.dev`를 거쳐 결제 페이지를 엽니다. 추천한 파트너가 수수료를 받을 수 있게 하기 위해서입니다. 자세한 내용은 [개인정보처리방침](PRIVACY.ko.md)을 참고하세요.
+
+---
+
 ## 1.0.3 — 2026-10-06
 
 - New **Get beta updates** option in Settings → Updates. Turn it on to try new features before they're released. It's off by default.

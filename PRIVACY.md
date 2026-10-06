@@ -32,7 +32,7 @@ As with any internet connection, these services can see your IP address. Their o
 
 ## Purchases
 
-When you choose Buy, MenuDart opens the checkout page in your web browser. The purchase is handled by Lemon Squeezy, our reseller and merchant of record, which collects your email address and payment details under its own privacy policy. MenuDart itself never sees your payment details.
+When you choose Buy, MenuDart opens a page on `studiojin.dev` in your web browser, which sends you on to the checkout page. If you allow it on that page, it records which partner (affiliate) link brought you there, so the partner gets credit for the sale. The purchase is handled by Lemon Squeezy, our reseller and merchant of record, which collects your email address and payment details under its own privacy policy. MenuDart itself never sees your payment details.
 
 ## Support
 

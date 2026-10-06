@@ -6,6 +6,21 @@
     <description>MenuDart updates</description>
     <language>en</language>
     <item>
+      <title>MenuDart 1.0.4</title>
+      <pubDate>Tue, 06 Oct 2026 20:53:37 +0900</pubDate>
+      <sparkle:version>5</sparkle:version>
+      <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <h2>MenuDart 1.0.4</h2>
+        <ul>
+          <li>The Menu Bar Icons popup opens instantly. MenuDart keeps the icon list ready in the background and refreshes it while the popup is open.</li>
+          <li>New options: refresh the icon list on a timer, and hide the Dock icon when Settings closes.</li>
+        </ul>
+      ]]></description>
+      <enclosure url="https://github.com/studiojin-dev/MenuDart-Public/releases/download/v1.0.4/MenuDart-1.0.4.dmg" sparkle:edSignature="n1F+bq98Ceo2EmAiG5YS721cL8/DrusnvUTRTKtuwbjTMoCm1FcL8pzqUr0Xwv/8uuppdu7aq5NS2vyRSt8nDQ==" length="3462531" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>MenuDart 1.0.3</title>
       <pubDate>Tue, 06 Oct 2026 13:49:44 +0900</pubDate>
       <sparkle:version>4</sparkle:version>
