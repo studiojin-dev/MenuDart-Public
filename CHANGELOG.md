@@ -1,5 +1,19 @@
 # Changelog
 
+## 1.0.3 — 2026-10-06
+
+- New **Get beta updates** option in Settings → Updates. Turn it on to try new features before they're released. It's off by default.
+- If you're on a beta and turn the option off, MenuDart moves to the next release when it's out, or you can download the latest release right away.
+- Settings → About now links to the new [Privacy Policy](PRIVACY.md). MenuDart doesn't track you: it goes online only for updates, license checks and, before you buy, sale info.
+
+## 1.0.3 — 2026-10-06 (한국어)
+
+- 설정 → 업데이트에 **베타 업데이트 받기** 옵션이 생겼습니다. 켜면 정식 출시 전에 새 기능을 먼저 써 볼 수 있습니다. 기본값은 꺼짐입니다.
+- 베타를 쓰다가 옵션을 끄면 다음 정식 버전이 나올 때 그 버전으로 넘어가며, 바로 최신 정식 버전을 내려받을 수도 있습니다.
+- 설정 → 정보에서 새 [개인정보처리방침](PRIVACY.ko.md)을 볼 수 있습니다. MenuDart는 사용자를 추적하지 않으며, 인터넷은 업데이트·라이선스 확인과 구매 전 할인 안내에만 사용합니다.
+
+---
+
 ## 1.0.2 — 2026-10-05
 
 - New pointer effect: **Ddoee**, a caped cat that flies your pointer to the menu. Choose it in Settings → Menu Bar Icons → Effect.

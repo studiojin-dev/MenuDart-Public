@@ -164,6 +164,10 @@ Found a bug or have a question? Please open an issue on [GitHub Issues](https://
 
 Using MenuDart requires agreeing to the [End User License Agreement](EULA.md) ([한국어](EULA.ko.md)). MenuDart asks for this on first launch. A 14-day free trial is available before purchase, so purchases aren't refundable for change of mind; see Section 7 of the agreement for refunds when MenuDart doesn't work as described.
 
+## Privacy
+
+MenuDart has no accounts, analytics, advertising, tracking or cookies. Your menus and menu bar icons are read on your Mac and never leave it. MenuDart goes online only to check for updates, to check your license and, before you buy, to check for a running sale. See the [Privacy Policy](PRIVACY.md) ([한국어](PRIVACY.ko.md)) for details.
+
 ## Business information
 
 Studiojin (스튜디오진) · Representative: Jeongjin Kim  

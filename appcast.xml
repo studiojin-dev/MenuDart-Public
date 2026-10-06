@@ -6,6 +6,21 @@
     <description>MenuDart updates</description>
     <language>en</language>
     <item>
+      <title>MenuDart 1.0.3</title>
+      <pubDate>Tue, 06 Oct 2026 13:49:44 +0900</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <h2>MenuDart 1.0.3</h2>
+        <ul>
+          <li>New option in Settings → Updates: Get beta updates. Turn it on to try new features before they're released.</li>
+          <li>Settings → About now links to the new Privacy Policy. MenuDart doesn't track you.</li>
+        </ul>
+      ]]></description>
+      <enclosure url="https://github.com/studiojin-dev/MenuDart-Public/releases/download/v1.0.3/MenuDart-1.0.3.dmg" sparkle:edSignature="b2J4lL0yV3KXl4PtKW5H+uaK3FYPHxycpcGJ3WvT89yvr+7Kk+PKOEPjyHDwXAVZWKrNggzcfXhJS9deBwkQAg==" length="3394532" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>MenuDart 1.0.2</title>
       <pubDate>Mon, 05 Oct 2026 11:02:43 +0900</pubDate>
       <sparkle:version>3</sparkle:version>
