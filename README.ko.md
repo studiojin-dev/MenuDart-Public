@@ -33,10 +33,10 @@
 50초 영상입니다(화면은 영어). 비좁은 맥북 메뉴 막대와 넓은 울트라와이드 모니터, 단축키 두 개, 그리고 고른 아이콘의 메뉴까지 포인터를 날려 주는 다트를 보여 줍니다.
 
 <p align="center">
-  <a href="https://studiojin.dev/ko/menudart/#demo"><img src="docs/images/demo-poster.png" alt="studiojin.dev에서 MenuDart 데모 영상 보기: 다트가 메뉴 막대 아이콘의 메뉴에 꽂히는 장면" width="720"></a>
+  <a href="https://youtu.be/BC-k86lHgMM"><img src="docs/images/demo-poster.png" alt="YouTube에서 MenuDart 데모 영상 보기: 다트가 메뉴 막대 아이콘의 메뉴에 꽂히는 장면" width="720"></a>
 </p>
 
-<p align="center"><a href="https://studiojin.dev/ko/menudart/#demo">▶ studiojin.dev에서 데모 재생</a></p>
+<p align="center"><a href="https://youtu.be/BC-k86lHgMM">▶ YouTube에서 데모 보기</a></p>
 
 ## 주요 기능
 

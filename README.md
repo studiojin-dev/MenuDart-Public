@@ -31,10 +31,10 @@ I also wanted an icon's own menu to open somewhere more convenient, but I couldn
 A 50-second walkthrough: a cramped MacBook menu bar, an ultrawide monitor, both shortcuts, and the dart that carries the pointer to the menu you pick.
 
 <p align="center">
-  <a href="https://studiojin.dev/menudart/#demo"><img src="docs/images/demo-poster.png" alt="Watch the MenuDart demo video on studiojin.dev: the dart lands on a menu bar icon's menu" width="720"></a>
+  <a href="https://youtu.be/BC-k86lHgMM"><img src="docs/images/demo-poster.png" alt="Watch the MenuDart demo video on YouTube: the dart lands on a menu bar icon's menu" width="720"></a>
 </p>
 
-<p align="center"><a href="https://studiojin.dev/menudart/#demo">▶ Play the demo on studiojin.dev</a></p>
+<p align="center"><a href="https://youtu.be/BC-k86lHgMM">▶ Watch the demo on YouTube</a></p>
 
 ## What it does
 
