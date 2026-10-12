@@ -2,7 +2,7 @@
 
 English | [한국어](PRIVACY.ko.md)
 
-Effective date: October 6, 2026
+Effective date: October 12, 2026
 
 Studiojin ("we") makes MenuDart, a macOS menu bar app. This policy explains what MenuDart does with your information. In short: **MenuDart has no accounts, no analytics, no advertising, no tracking and no cookies.** It goes online only to check for updates, to check your license and, before you buy, to check for a running sale.
 
@@ -32,7 +32,7 @@ As with any internet connection, these services can see your IP address. Their o
 
 ## Purchases
 
-When you choose Buy, MenuDart opens a page on `studiojin.dev` in your web browser, which sends you on to the checkout page. If you allow it on that page, it records which partner (affiliate) link brought you there, so the partner gets credit for the sale. The purchase is handled by Lemon Squeezy, our reseller and merchant of record, which collects your email address and payment details under its own privacy policy. MenuDart itself never sees your payment details.
+When you choose Buy, MenuDart opens a page on `studiojin.dev` in your web browser, which sends you on to the checkout page. If you allow it on that page, it records which partner (affiliate) link brought you there, so the partner gets credit for the sale. The link also says which Buy button you used (for example, the one in Settings), a plain label with no identifier, which the checkout page keeps with the order. When an order is completed or refunded, we record it in our site analytics (PostHog) with that label, the product, and the amount, but never your name or email address. If you allowed analytics on `studiojin.dev`, the record is linked to your earlier visits to the site; otherwise it is recorded on its own. The purchase is handled by Lemon Squeezy, our reseller and merchant of record, which collects your email address and payment details under its own privacy policy. MenuDart itself never sees your payment details.
 
 ## Support
 
