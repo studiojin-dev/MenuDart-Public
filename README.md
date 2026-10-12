@@ -106,7 +106,7 @@ The Space and Return click assignments can be swapped in Settings. The pointer w
 - **Shortcuts.** There are none until you set them. The setup guide offers one-click defaults: <kbd>⌥</kbd><kbd>⌘</kbd><kbd>[</kbd> for App Menus, <kbd>⌥</kbd><kbd>⌘</kbd><kbd>]</kbd> for Menu Bar Icons, and an optional <kbd>⌥</kbd><kbd>⌘</kbd><kbd>\\</kbd> for Settings. You can record any combination that includes at least one modifier key.
 - **Conflict check.** MenuDart warns you if a combination is already used by another MenuDart action or a macOS system shortcut, and lets you move it, register it anyway, or cancel.
 - **Menu Bar Icons grid.** Set the number of icons per row (1 to 16) and where the pointer lands when the popup opens (center of the first item or center of the popup).
-- **Pointer effect.** Rocket, Trail, Dart, Ddoee (a flying cat), or No Effect.
+- **Pointer effect.** Rocket, Trail, Dart, Ddoee (a flying cat), or No Effect. Set its speed (50–200%) and size (50–300%).
 - **Appearance.** System, Light, or Dark. On macOS 26 and later the popups use Liquid Glass automatically.
 - **Language.** English, Korean, Japanese, Simplified Chinese, Traditional Chinese, Portuguese (Brazil), Spanish, Hindi, Italian, German and French. The app restarts when you change it.
 

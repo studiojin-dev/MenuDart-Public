@@ -1,5 +1,17 @@
 # Changelog
 
+## 1.0.5 — 2026-10-12
+
+- New **Speed** and **Size** sliders for the pointer effect in Settings → Menu Bar Icons. The flight plays at 50–200% of its normal speed, and the rocket, trail, dart or Ddoee and its landing burst are drawn at 50–300% of their normal size. Both start at 100%.
+- Buy buttons now tell the checkout page which button you used (Settings, the sale notice, or the trial-ended alert). It's a plain label with no identifier. See the [Privacy Policy](PRIVACY.md).
+
+## 1.0.5 — 2026-10-12 (한국어)
+
+- 설정 → 메뉴 막대 아이콘에 포인터 효과의 **속도**와 **크기** 슬라이더가 생겼습니다. 날아가는 속도를 보통의 50~200%로, 로켓·궤적·다트·또이와 착지 효과의 크기를 보통의 50~300%로 바꿀 수 있습니다. 기본값은 둘 다 100%입니다.
+- 구매 버튼이 결제 페이지에 어느 버튼(설정, 할인 알림, 체험 종료 알림)에서 왔는지 알려 줍니다. 식별자가 없는 단순한 이름표입니다. 자세한 내용은 [개인정보처리방침](PRIVACY.ko.md)을 참고하세요.
+
+---
+
 ## 1.0.4 — 2026-10-06
 
 - The **Menu Bar Icons** popup opens instantly. MenuDart keeps the icon list ready in the background (when apps open or quit, and when your Mac wakes) and refreshes it while the popup is open, with an "Updating…" badge in the title.

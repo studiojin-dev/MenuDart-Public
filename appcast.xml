@@ -6,6 +6,21 @@
     <description>MenuDart updates</description>
     <language>en</language>
     <item>
+      <title>MenuDart 1.0.5</title>
+      <pubDate>Mon, 12 Oct 2026 11:30:00 +0900</pubDate>
+      <sparkle:version>6</sparkle:version>
+      <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <h2>MenuDart 1.0.5</h2>
+        <ul>
+          <li>New Speed and Size sliders for the pointer effect in Settings → Menu Bar Icons. Make the flight faster or slower, and the rocket, trail, dart or Ddoee bigger or smaller.</li>
+          <li>Buy buttons now tell the checkout page which button you used. It's a plain label with no identifier.</li>
+        </ul>
+      ]]></description>
+      <enclosure url="https://github.com/studiojin-dev/MenuDart-Public/releases/download/v1.0.5/MenuDart-1.0.5.dmg" sparkle:edSignature="BCGMFFfS9Dq3SlweoftSDOXlfpp3jAdYFg4MMOJmeIEJJ/831dZFYSZ4ZzQIVYYR5EbvXv3oGRUkKMlP19bbCQ==" length="3475122" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>MenuDart 1.0.4</title>
       <pubDate>Tue, 06 Oct 2026 20:53:37 +0900</pubDate>
       <sparkle:version>5</sparkle:version>
