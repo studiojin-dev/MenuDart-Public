@@ -1,5 +1,19 @@
 # Changelog
 
+## 1.0.6 — 2026-10-15
+
+- The **Menu Bar Icons** popup now lists icons in the same order every time: icons built into macOS (Control Center, Wi‑Fi, battery, clock and so on) first by name, then other apps' icons by app name. Before, the order could change after you picked an icon.
+- New option in Settings → Menu Bar Icons: **Show Built-in macOS Icons**. Turn it off to list only other apps' icons. It's on by default.
+- Improved stability.
+
+## 1.0.6 — 2026-10-15 (한국어)
+
+- **메뉴 막대 아이콘** 팝업이 항상 같은 순서로 아이콘을 보여 줍니다. macOS 내장 아이콘(제어 센터, Wi‑Fi, 배터리, 시계 등)이 이름순으로 먼저 나오고, 그다음 다른 앱의 아이콘이 앱 이름순으로 나옵니다. 이전에는 아이콘을 고른 뒤 순서가 바뀌는 경우가 있었습니다.
+- 설정 → 메뉴 막대 아이콘에 **macOS 내장 아이콘 보이기** 옵션이 생겼습니다. 끄면 다른 앱의 아이콘만 보입니다. 기본값은 켜짐입니다.
+- 안정성을 향상시켰습니다.
+
+---
+
 ## 1.0.5 — 2026-10-12
 
 - New **Speed** and **Size** sliders for the pointer effect in Settings → Menu Bar Icons. The flight plays at 50–200% of its normal speed, and the rocket, trail, dart or Ddoee and its landing burst are drawn at 50–300% of their normal size. Both start at 100%.

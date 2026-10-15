@@ -6,6 +6,22 @@
     <description>MenuDart updates</description>
     <language>en</language>
     <item>
+      <title>MenuDart 1.0.6</title>
+      <pubDate>Thu, 15 Oct 2026 20:22:09 +0900</pubDate>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <h2>MenuDart 1.0.6</h2>
+        <ul>
+          <li>The Menu Bar Icons popup lists icons in the same order every time: built-in macOS icons first by name, then other apps' icons by app name.</li>
+          <li>New option in Settings → Menu Bar Icons: Show Built-in macOS Icons.</li>
+          <li>Improved stability.</li>
+        </ul>
+      ]]></description>
+      <enclosure url="https://github.com/studiojin-dev/MenuDart-Public/releases/download/v1.0.6/MenuDart-1.0.6.dmg" sparkle:edSignature="fPPx2HMO7nucL0aIX8Ro6q7hsVI5s32aFDQ30FzhYafODSUUT/jPtulmmFI/l92na6X4uJqwkOlHN7hd1eKACg==" length="3475086" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>MenuDart 1.0.5</title>
       <pubDate>Mon, 12 Oct 2026 11:30:00 +0900</pubDate>
       <sparkle:version>6</sparkle:version>

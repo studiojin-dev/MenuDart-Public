@@ -65,7 +65,7 @@ Gathers the icons on the right side of the menu bar (status items and menu extra
 </p>
 
 - Pick an icon with the arrow keys or the pointer. MenuDart clicks the real icon for you, with a left click or a right click.
-- On-screen icons are listed first. System icons keep their menu bar order.
+- Icons built into macOS (Control Center, Wi‑Fi, battery, clock and so on) are listed first by name, then other apps' icons by app name, so the order stays the same every time. Turn off **Show Built-in macOS Icons** in Settings → Menu Bar Icons to list only other apps' icons.
 - If clicking an icon changes nothing, a small toast in the popup tells you.
 
 **How the pointer flight works.** After you pick an icon, its own menu still opens at its normal place under the menu bar. MenuDart does not move that menu and does not show it inside the popup. What it does is move your pointer onto the menu once it has opened, so you don't have to travel to the top of the screen. You can choose a pointer effect for the trip: Rocket, Trail, Dart, Ddoee (a flying cat), or No Effect.
