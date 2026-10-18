@@ -6,6 +6,23 @@
     <description>MenuDart updates</description>
     <language>en</language>
     <item>
+      <title>MenuDart 1.0.7</title>
+      <pubDate>Sun, 18 Oct 2026 15:23:57 +0900</pubDate>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <h2>MenuDart 1.0.7</h2>
+        <ul>
+          <li>App Menus: the first command of an opened menu is no longer half hidden under the title bar.</li>
+          <li>App Menus: a newly opened menu starts on its top item instead of the item under the pointer, and the first level starts on the app's own first menu rather than the Apple menu.</li>
+          <li>Menu Bar Icons: "Icons per row" is now a 3–15 slider that warns when the popup would be too wide for your smallest display.</li>
+          <li>Menu Bar Icons: the popup can no longer be shrunk until icons become too small to read.</li>
+        </ul>
+      ]]></description>
+      <enclosure url="https://github.com/studiojin-dev/MenuDart-Public/releases/download/v1.0.7/MenuDart-1.0.7.dmg" sparkle:edSignature="4UB4QIzigeyTp3hMcjBfJPRSNCwoJgk8WLu1z3Otvs1oHr9SuocbgHpS7NJAVT+XoWNW28xkLAB3SJjK301PBw==" length="3482620" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>MenuDart 1.0.6</title>
       <pubDate>Thu, 15 Oct 2026 20:22:09 +0900</pubDate>
       <sparkle:version>7</sparkle:version>

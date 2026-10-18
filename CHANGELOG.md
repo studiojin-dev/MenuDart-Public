@@ -1,5 +1,21 @@
 # Changelog
 
+## 1.0.7 — 2026-10-18
+
+- **App Menus** popup: when you open a menu, the first command is no longer half hidden under the title bar.
+- **App Menus** popup: a newly opened menu now starts on its top item, instead of whichever item happened to be under the pointer. At the first level it starts on the app's own first menu rather than the Apple menu.
+- **Menu Bar Icons**: "Icons per row" is now a slider from 3 to 15. It warns you when the popup would be too wide for your smallest display.
+- **Menu Bar Icons**: the popup can no longer be shrunk until the icons become too small to read.
+
+## 1.0.7 — 2026-10-18 (한국어)
+
+- **앱 메뉴** 팝업: 메뉴를 열었을 때 첫 번째 명령이 제목 막대에 반쯤 가려지지 않습니다.
+- **앱 메뉴** 팝업: 새로 연 메뉴는 포인터 아래 항목이 아니라 맨 위 항목부터 선택됩니다. 첫 단계에서는 Apple 메뉴 대신 앱의 첫 메뉴가 선택됩니다.
+- **메뉴 막대 아이콘**: "한 줄 아이콘 수"가 3~15 슬라이더로 바뀌었습니다. 가장 작은 화면에 비해 팝업이 너무 넓어지면 경고를 보여 줍니다.
+- **메뉴 막대 아이콘**: 아이콘을 알아볼 수 없을 만큼 팝업을 작게 줄일 수 없습니다.
+
+---
+
 ## 1.0.6 — 2026-10-15
 
 - The **Menu Bar Icons** popup now lists icons in the same order every time: icons built into macOS (Control Center, Wi‑Fi, battery, clock and so on) first by name, then other apps' icons by app name. Before, the order could change after you picked an icon.
