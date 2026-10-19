@@ -56,6 +56,12 @@ Shows the frontmost app's menu bar menus (Apple menu, File, Edit, and so on) in 
 - It looks like a system menu, including disabled items and separators. Each action appears once (Option-key alternates are hidden).
 - The popup doesn't take focus from the app you're working in, so that app's menu bar stays as it is.
 
+**Outline layout and menu search.** Switch Settings → App Menu → **Layout** from Classic to **Outline** to see every menu as one tree you can expand and collapse. Start typing and MenuDart searches every menu item, submenus included, and shows the menus each one lives in (Format › Font). Case and accents are ignored, and Korean initial consonants work too. Press <kbd>→</kbd> to show a result in the tree, or <kbd>Return</kbd> to run it. The Apple button next to the search field (or **Include Apple Menu in Search** in Settings) chooses whether the Apple menu is searched.
+
+<p align="center">
+  <img src="docs/images/outline-search.png" alt="The App Menus popup in the Outline layout, listing TextEdit menu items that match “font” with their menu paths" width="420">
+</p>
+
 ### Menu Bar Icons
 
 Gathers the icons on the right side of the menu bar (status items and menu extras, including Control Center ones) into a grid, including icons hidden because the menu bar is too crowded or cut off by the notch.
@@ -68,6 +74,7 @@ Gathers the icons on the right side of the menu bar (status items and menu extra
 - Start typing as soon as the popup opens to narrow the grid by icon or app name. The first match is selected, so <kbd>Space</kbd> or <kbd>Return</kbd> opens it right away. Korean initial consonants work too (ㅅㄱ finds 시계).
 - Icons built into macOS (Control Center, Wi‑Fi, battery, clock and so on) are listed first by name, then other apps' icons by app name, so the order stays the same every time. Turn off **Show Built-in macOS Icons** in Settings → Menu Bar Icons to list only other apps' icons.
 - If clicking an icon changes nothing, a small toast in the popup tells you.
+- Turn off **Show Icon Names** in Settings → Menu Bar Icons to show the icons alone, like the Dock. Point at an icon to see its name.
 
 **How the pointer flight works.** After you pick an icon, its own menu still opens at its normal place under the menu bar. MenuDart does not move that menu and does not show it inside the popup. What it does is move your pointer onto the menu once it has opened, so you don't have to travel to the top of the screen. You can choose a pointer effect for the trip: Rocket, Trail, Dart, Ddoee (a flying cat), or No Effect.
 
@@ -86,6 +93,16 @@ Gathers the icons on the right side of the menu bar (status items and menu extra
 | <kbd>←</kbd> | Go back |
 | <kbd>Return</kbd> or <kbd>Space</kbd> | Run the item |
 | <kbd>Esc</kbd> | Close |
+
+**App Menus, Outline layout**
+
+| Key | Action |
+|---|---|
+| <kbd>↑</kbd> / <kbd>↓</kbd> | Choose an item |
+| <kbd>→</kbd> / <kbd>←</kbd> | Expand / collapse a menu (while searching, <kbd>→</kbd> shows the result in the tree) |
+| Type letters | Search every menu item |
+| <kbd>Return</kbd> | Run the item, or open or close a menu |
+| <kbd>Esc</kbd> | Clear the search, then close |
 
 **Menu Bar Icons**
 
@@ -107,9 +124,14 @@ The Space and Return click assignments can be swapped in Settings. The pointer w
 
 - **Shortcuts.** There are none until you set them. The setup guide offers one-click defaults: <kbd>⌥</kbd><kbd>⌘</kbd><kbd>[</kbd> for App Menus, <kbd>⌥</kbd><kbd>⌘</kbd><kbd>]</kbd> for Menu Bar Icons, and an optional <kbd>⌥</kbd><kbd>⌘</kbd><kbd>\\</kbd> for Settings. You can record any combination that includes at least one modifier key.
 - **Conflict check.** MenuDart warns you if a combination is already used by another MenuDart action or a macOS system shortcut, and lets you move it, register it anyway, or cancel.
-- **Menu Bar Icons grid.** Set the number of icons per row (3 to 15) and where the pointer lands when the popup opens (center of the first item or center of the popup).
+- **App Menu layout.** Classic opens submenus in columns side by side; Outline shows every menu in one tree with search.
+- **Menu Bar Icons grid.** Set the number of icons per row (3 to 15), where the pointer lands when the popup opens (center of the first item or center of the popup), and whether icon names are shown.
 - **Pointer effect.** Rocket, Trail, Dart, Ddoee (a flying cat), or No Effect. Set its speed (50–200%) and size (50–300%).
-- **Appearance.** System, Light, or Dark. On macOS 26 and later the popups use Liquid Glass automatically.
+- **Appearance and theme.** System, Light, or Dark, plus a **Theme** for the popups and Settings: **Classic** looks like macOS menus, and **Smoke** is smoked glass that lets what's behind show through, blurred, with a lit edge and a glossy selection. A **Transparency** slider sets how much shows through. In Smoke, Menu Bar Icons shows the icons alone, like the Dock.
+
+<p align="center">
+  <img src="docs/images/smoke-menu.png" alt="The App Menus popup in the Smoke theme over a colorful window, with Format › Prevent Editing selected" width="560">
+</p>
 - **Language.** English, Korean, Japanese, Simplified Chinese, Traditional Chinese, Portuguese (Brazil), Spanish, Hindi, Italian, German and French. The app restarts when you change it.
 
 ## Requirements and permissions

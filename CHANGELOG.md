@@ -1,5 +1,21 @@
 # Changelog
 
+## 1.1.0 — 2026-10-19
+
+- **App Menus** popup gets a new **Outline** layout (Settings → App Menu → Layout). Every menu shows as one tree you can expand and collapse, and typing searches every menu item, submenus included, with the menus it lives in (Format › Font). Case and accents are ignored and Korean initial consonants match too. Press → to show a result in the tree, or Return to run it. An Apple button beside the search field, and a matching setting, choose whether the Apple menu is searched.
+- New **Theme** setting in Settings → General for the popups and the Settings window. **Classic** looks like macOS menus. **Smoke** is smoked glass: what's behind shows through, blurred, with a lit edge and a glossy selection, and a **Transparency** slider sets how much shows through. Popups no longer use Liquid Glass; choose Smoke for a glass look.
+- **Menu Bar Icons**: new **Show Icon Names** option. Turn it off to show the icons alone, like the Dock; point at an icon to see its name. The Smoke theme always shows icons alone.
+- The search fields in both popups now look the same.
+
+## 1.1.0 — 2026-10-19 (한국어)
+
+- **앱 메뉴** 팝업에 새 **아웃라인** 보기 방식이 생겼습니다(설정 → 앱 메뉴 → 보기 방식). 모든 메뉴를 펼치고 접을 수 있는 트리 하나로 보여 주고, 입력하면 하위 메뉴까지 모든 메뉴 항목을 검색해 어느 메뉴에 있는지(Format › Font) 함께 보여 줍니다. 대소문자와 악센트는 구분하지 않고 초성 검색도 됩니다. →를 누르면 트리에서 위치를 보여 주고, Return을 누르면 바로 실행합니다. 검색 칸 옆 Apple 버튼과 같은 이름의 설정으로 Apple 메뉴를 검색할지 정합니다.
+- 설정 → 일반에 팝업과 설정 창의 **테마**가 생겼습니다. **클래식**은 macOS 메뉴처럼 보이고, **스모크**는 뒤에 있는 화면이 흐리게 비치는 스모크 유리로 가장자리에 빛이 들고 선택한 항목이 광택 있게 표시됩니다. **투명도** 슬라이더로 비치는 정도를 정합니다. 팝업에 더 이상 Liquid Glass를 쓰지 않으며, 유리 느낌을 원하면 스모크를 고르세요.
+- **메뉴 막대 아이콘**: **아이콘 이름 표시** 옵션이 생겼습니다. 끄면 Dock처럼 아이콘만 보이고, 포인터를 올리면 이름이 나타납니다. 스모크 테마에서는 항상 아이콘만 보입니다.
+- 두 팝업의 검색 칸 모양이 같아졌습니다.
+
+---
+
 ## 1.0.8 — 2026-10-19
 
 - **Menu Bar Icons** popup gets a search field. Start typing as soon as it opens to narrow the icons by name or app; the first match is selected, so Space or Return opens it right away. Case and accents are ignored, input methods such as Korean, Japanese and Chinese work as usual, and Korean initial consonants match too (ㅅㄱ finds 시계).
