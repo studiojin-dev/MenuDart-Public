@@ -1,5 +1,15 @@
 # Changelog
 
+## 1.0.8 — 2026-10-19
+
+- **Menu Bar Icons** popup gets a search field. Start typing as soon as it opens to narrow the icons by name or app; the first match is selected, so Space or Return opens it right away. Case and accents are ignored, input methods such as Korean, Japanese and Chinese work as usual, and Korean initial consonants match too (ㅅㄱ finds 시계).
+
+## 1.0.8 — 2026-10-19 (한국어)
+
+- **메뉴 막대 아이콘** 팝업에 검색 칸이 생겼습니다. 팝업이 열리면 바로 글자를 입력해 아이콘이나 앱 이름으로 찾을 수 있고, 첫 번째 결과가 선택되므로 Space나 Return으로 바로 엽니다. 대소문자와 악센트는 구분하지 않고, 한글·일본어·중국어 입력기도 그대로 쓸 수 있으며, 초성 검색도 됩니다(ㅅㄱ → 시계).
+
+---
+
 ## 1.0.7 — 2026-10-18
 
 - **App Menus** popup: when you open a menu, the first command is no longer half hidden under the title bar.

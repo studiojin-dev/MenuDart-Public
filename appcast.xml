@@ -6,6 +6,20 @@
     <description>MenuDart updates</description>
     <language>en</language>
     <item>
+      <title>MenuDart 1.0.8</title>
+      <pubDate>Mon, 19 Oct 2026 14:23:41 +0900</pubDate>
+      <sparkle:version>9</sparkle:version>
+      <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <h2>MenuDart 1.0.8</h2>
+        <ul>
+          <li>Menu Bar Icons: type as soon as the popup opens to find an icon by name or app. The first match is selected, so Space or Return opens it. Input methods work as usual, and Korean initial consonants match too.</li>
+        </ul>
+      ]]></description>
+      <enclosure url="https://github.com/studiojin-dev/MenuDart-Public/releases/download/v1.0.8/MenuDart-1.0.8.dmg" sparkle:edSignature="e1SWRoEWfjujYgJaOGZ+3eMiUmVV8kp0OI6SYh4jwgH9oBiiXq62BIZkDBP4BclyBb+SS6QTsB0f1n5BkA6fBA==" length="3507496" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>MenuDart 1.0.7</title>
       <pubDate>Sun, 18 Oct 2026 15:23:57 +0900</pubDate>
       <sparkle:version>8</sparkle:version>

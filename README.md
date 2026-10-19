@@ -65,6 +65,7 @@ Gathers the icons on the right side of the menu bar (status items and menu extra
 </p>
 
 - Pick an icon with the arrow keys or the pointer. MenuDart clicks the real icon for you, with a left click or a right click.
+- Start typing as soon as the popup opens to narrow the grid by icon or app name. The first match is selected, so <kbd>Space</kbd> or <kbd>Return</kbd> opens it right away. Korean initial consonants work too (ㅅㄱ finds 시계).
 - Icons built into macOS (Control Center, Wi‑Fi, battery, clock and so on) are listed first by name, then other apps' icons by app name, so the order stays the same every time. Turn off **Show Built-in macOS Icons** in Settings → Menu Bar Icons to list only other apps' icons.
 - If clicking an icon changes nothing, a small toast in the popup tells you.
 
@@ -91,6 +92,7 @@ Gathers the icons on the right side of the menu bar (status items and menu extra
 | Key | Action |
 |---|---|
 | Arrow keys | Choose an icon |
+| Type letters | Search icons by name |
 | <kbd>Space</kbd> | Left click the icon |
 | <kbd>Return</kbd> | Right click the icon |
 | <kbd>Esc</kbd> | Close |
