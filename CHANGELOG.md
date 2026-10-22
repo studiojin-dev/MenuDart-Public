@@ -1,5 +1,21 @@
 # Changelog
 
+## 1.2.0 — 2026-10-22
+
+- New **⌘Tab app switcher** (off by default). Turn on **Use MenuDart for ⌘Tab** in Settings → Shortcuts and ⌘Tab shows your open apps in several rows on a glass panel, centred on the screen with the pointer, instead of one long row. While holding ⌘, use Tab, ⇧Tab or ` and the arrow keys to move, let go of ⌘ to switch, Esc to cancel, and Q or H to quit or hide the selected app. Needs Accessibility.
+- New **tutorial** that walks through every feature with its keys, options and screenshots. It opens once after setup (if you already use MenuDart, it asks once), has a **Don't show this again** option, and opens any time from Settings → General → Tutorial.
+- **Menu Bar Icons**: while the list refreshes, Coco the cat looks through the menus in the popup's title bar, then curls up for a nap when it's done.
+- **App Menus**: with **Show scroll bars** set to **Always** in System Settings, the first item of a submenu is no longer cut off under the header.
+
+## 1.2.0 — 2026-10-22 (한국어)
+
+- 새 **⌘Tab 앱 전환기**(기본값 꺼짐). 설정 → 단축키에서 **⌘Tab에 MenuDart 앱 전환기 사용**을 켜면 ⌘Tab을 눌렀을 때 열린 앱이 긴 한 줄 대신, 포인터가 있는 화면 가운데의 유리 패널에 여러 줄로 나옵니다. ⌘를 누른 채 Tab, ⇧Tab, `와 방향키로 옮겨 다니고, ⌘에서 손을 떼면 전환됩니다. Esc는 취소, Q와 H는 선택한 앱을 종료하거나 가립니다. 손쉬운 사용 권한이 필요합니다.
+- 모든 기능을 키·옵션·화면과 함께 소개하는 **튜토리얼**이 생겼습니다. 설정을 마친 뒤 한 번 열리고(이미 쓰고 있다면 한 번 물어봅니다), **다시 보지 않기**를 고를 수 있으며, 설정 → 일반 → 튜토리얼에서 언제든 열 수 있습니다.
+- **메뉴 막대 아이콘**: 목록을 새로 고치는 동안 고양이 코코가 팝업 제목 막대에서 메뉴를 살펴보다가, 끝나면 몸을 말고 낮잠을 잡니다.
+- **앱 메뉴**: 시스템 설정에서 **스크롤 막대 보기**가 **항상**일 때 하위 메뉴 첫 항목이 헤더에 가려지던 문제를 고쳤습니다.
+
+---
+
 ## 1.1.0 — 2026-10-19
 
 - **App Menus** popup gets a new **Outline** layout (Settings → App Menu → Layout). Every menu shows as one tree you can expand and collapse, and typing searches every menu item, submenus included, with the menus it lives in (Format › Font). Case and accents are ignored and Korean initial consonants match too. Press → to show a result in the tree, or Return to run it. An Apple button beside the search field, and a matching setting, choose whether the Apple menu is searched.

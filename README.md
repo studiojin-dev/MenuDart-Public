@@ -75,12 +75,25 @@ Gathers the icons on the right side of the menu bar (status items and menu extra
 - Icons built into macOS (Control Center, Wi‑Fi, battery, clock and so on) are listed first by name, then other apps' icons by app name, so the order stays the same every time. Turn off **Show Built-in macOS Icons** in Settings → Menu Bar Icons to list only other apps' icons.
 - If clicking an icon changes nothing, a small toast in the popup tells you.
 - Turn off **Show Icon Names** in Settings → Menu Bar Icons to show the icons alone, like the Dock. Point at an icon to see its name.
+- While the list refreshes, Coco the cat looks through the menus in the popup's title bar, then curls up for a nap when it's done.
 
 **How the pointer flight works.** After you pick an icon, its own menu still opens at its normal place under the menu bar. MenuDart does not move that menu and does not show it inside the popup. What it does is move your pointer onto the menu once it has opened, so you don't have to travel to the top of the screen. You can choose a pointer effect for the trip: Rocket, Trail, Dart, Ddoee (a flying cat), or No Effect.
 
 <p align="center">
   <img src="docs/images/pointer-on-menu.png" alt="After choosing MenuDart in the grid, its menu is open under the menu bar and the pointer is already on it" width="720">
 </p>
+
+### ⌘Tab app switcher (optional)
+
+The macOS app switcher puts every open app in one row, which gets cramped on a small screen with many apps open. Turn on **Use MenuDart for ⌘Tab** in Settings → Shortcuts and <kbd>⌘</kbd><kbd>Tab</kbd> shows your open apps in several rows on a glass panel, centred on the screen with the pointer. It is off until you turn it on, and turning it off brings back the macOS switcher.
+
+<p align="center">
+  <img src="docs/images/cmd-tab-switcher.png" alt="MenuDart's ⌘Tab switcher showing open apps in three rows on a glass panel" width="720">
+</p>
+
+### Tutorial
+
+A built-in tutorial walks through every feature with its keys, options and screenshots. It opens once after setup, and you can open it again any time from Settings → General → **Tutorial**.
 
 ## Keyboard reference
 
@@ -116,6 +129,17 @@ Gathers the icons on the right side of the menu bar (status items and menu extra
 
 The Space and Return click assignments can be swapped in Settings. The pointer works in both popups too.
 
+**⌘Tab app switcher** (while holding <kbd>⌘</kbd>)
+
+| Key | Action |
+|---|---|
+| <kbd>Tab</kbd> | Open the switcher, then go to the next app |
+| <kbd>⇧</kbd><kbd>Tab</kbd> or <kbd>`</kbd> | Go to the previous app |
+| Arrow keys | Move along a row and between rows |
+| Let go of <kbd>⌘</kbd> | Switch to the selected app |
+| <kbd>Esc</kbd> | Cancel |
+| <kbd>Q</kbd> / <kbd>H</kbd> | Quit / hide the selected app |
+
 ## Settings highlights
 
 <p align="center">
@@ -125,6 +149,8 @@ The Space and Return click assignments can be swapped in Settings. The pointer w
 - **Shortcuts.** There are none until you set them. The setup guide offers one-click defaults: <kbd>⌥</kbd><kbd>⌘</kbd><kbd>[</kbd> for App Menus, <kbd>⌥</kbd><kbd>⌘</kbd><kbd>]</kbd> for Menu Bar Icons, and an optional <kbd>⌥</kbd><kbd>⌘</kbd><kbd>\\</kbd> for Settings. You can record any combination that includes at least one modifier key.
 - **Conflict check.** MenuDart warns you if a combination is already used by another MenuDart action or a macOS system shortcut, and lets you move it, register it anyway, or cancel.
 - **App Menu layout.** Classic opens submenus in columns side by side; Outline shows every menu in one tree with search.
+- **⌘Tab app switcher.** Off by default. Turn on **Use MenuDart for ⌘Tab** in Settings → Shortcuts to use MenuDart's multi-row switcher instead of the macOS one.
+- **Tutorial.** Settings → General → **Tutorial** opens the feature tutorial again.
 - **Menu Bar Icons grid.** Set the number of icons per row (3 to 15), where the pointer lands when the popup opens (center of the first item or center of the popup), and whether icon names are shown.
 - **Pointer effect.** Rocket, Trail, Dart, Ddoee (a flying cat), or No Effect. Set its speed (50–200%) and size (50–300%).
 - **Appearance and theme.** System, Light, or Dark, plus a **Theme** for the popups and Settings: **Classic** looks like macOS menus, and **Smoke** is smoked glass that lets what's behind show through, blurred, with a lit edge and a glossy selection. A **Transparency** slider sets how much shows through. In Smoke, Menu Bar Icons shows the icons alone, like the Dock.
@@ -141,7 +167,7 @@ The Space and Return click assignments can be swapped in Settings. The pointer w
 
 | Permission | Required? | What it's for | Without it |
 |---|---|---|---|
-| Accessibility | Yes | Reading the front app's menus and pressing menu bar icons | Neither popup works |
+| Accessibility | Yes | Reading the front app's menus, pressing menu bar icons, and the optional ⌘Tab switcher | Neither popup (nor the ⌘Tab switcher) works |
 | Screen Recording | Recommended, optional | Showing the real menu bar icon images in the grid | The grid shows each app's own icon instead |
 
 MenuDart captures only the menu bar icons it shows in the popup. It doesn't save those images or send them anywhere. MenuDart doesn't collect or send your data; the only network request is the update check, which contacts GitHub to fetch the update feed.
