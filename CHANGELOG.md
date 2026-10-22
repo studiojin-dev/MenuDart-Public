@@ -1,5 +1,15 @@
 # Changelog
 
+## 1.2.3 — 2026-10-22
+
+- **⌘Tab switcher**: the hint in Settings → Shortcuts and the tutorial page now say that the selected app's name appears under its icon, and that you switch by letting go of ⌘, pressing Return, or clicking an icon. Updated in all 11 languages.
+
+## 1.2.3 — 2026-10-22 (한국어)
+
+- **⌘Tab 전환기**: 설정 → 단축키의 힌트와 튜토리얼 페이지가 선택한 앱의 이름이 아이콘 아래에 표시된다는 점과, ⌘에서 손을 떼거나 Return을 누르거나 아이콘을 클릭하면 전환된다는 점을 설명합니다. 11개 언어 모두 갱신했습니다.
+
+---
+
 ## 1.2.2 — 2026-10-22
 
 - **⌘Tab switcher**: the selected app's name now appears in a small bubble under its icon, the way the Menu Bar Icons popup names the icon you point at, instead of in a band at the bottom of the panel.

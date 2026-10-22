@@ -6,6 +6,20 @@
     <description>MenuDart updates</description>
     <language>en</language>
     <item>
+      <title>MenuDart 1.2.3</title>
+      <pubDate>Thu, 22 Oct 2026 22:04:17 +0900</pubDate>
+      <sparkle:version>16</sparkle:version>
+      <sparkle:shortVersionString>1.2.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <h2>MenuDart 1.2.3</h2>
+        <ul>
+          <li>⌘Tab switcher: the Settings hint and the tutorial now explain that the selected app's name appears under its icon, and that you switch by letting go of ⌘, pressing Return, or clicking an icon. All 11 languages.</li>
+        </ul>
+      ]]></description>
+      <enclosure url="https://github.com/studiojin-dev/MenuDart-Public/releases/download/v1.2.3/MenuDart-1.2.3.dmg" sparkle:edSignature="QlBTjNPV9S+O5tGexmy3OuwHWrKtj2EsPQW4gsQRq4EpJJjNrhOiSkUESJ4DhxN39DlczWmulc3TEGo6KBipAw==" length="3877616" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>MenuDart 1.2.2</title>
       <pubDate>Thu, 22 Oct 2026 21:28:17 +0900</pubDate>
       <sparkle:version>15</sparkle:version>
