@@ -6,6 +6,21 @@
     <description>MenuDart updates</description>
     <language>en</language>
     <item>
+      <title>MenuDart 1.2.1-beta.1</title>
+      <pubDate>Thu, 22 Oct 2026 16:27:00 +0900</pubDate>
+      <sparkle:channel>beta</sparkle:channel>
+      <sparkle:version>13</sparkle:version>
+      <sparkle:shortVersionString>1.2.1-beta.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <h2>MenuDart 1.2.1 beta 1</h2>
+        <ul>
+          <li>Beta: in Menu Bar Icons, moving to an icon with the arrow keys now shows its name, the way pointing at it does, when icon names are hidden or the name was cut short.</li>
+        </ul>
+      ]]></description>
+      <enclosure url="https://github.com/studiojin-dev/MenuDart-Public/releases/download/v1.2.1-beta.1/MenuDart-1.2.1-beta.1.dmg" sparkle:edSignature="NeDcvVVVj2c3bveM1mlrWknV84rm//dfYi69L2XwrSateDfNPvtCzbFP2RlONsisKHiJ1+Hg/WOWuyXbrTPaBQ==" length="3871430" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>MenuDart 1.2.0</title>
       <pubDate>Thu, 22 Oct 2026 15:49:25 +0900</pubDate>
       <sparkle:version>12</sparkle:version>
