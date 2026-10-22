@@ -1,5 +1,15 @@
 # Changelog
 
+## 1.2.2 — 2026-10-22
+
+- **⌘Tab switcher**: the selected app's name now appears in a small bubble under its icon, the way the Menu Bar Icons popup names the icon you point at, instead of in a band at the bottom of the panel.
+
+## 1.2.2 — 2026-10-22 (한국어)
+
+- **⌘Tab 전환기**: 선택한 앱의 이름이 패널 아래쪽 띠 대신, 메뉴 막대 아이콘 팝업에서 포인터를 올린 아이콘의 이름을 보여 주는 것처럼 아이콘 아래 작은 말풍선에 표시됩니다.
+
+---
+
 ## 1.2.1 — 2026-10-22
 
 - **⌘Tab switcher**: on some Macs, choosing an app did nothing: the switcher closed but the app and its window stayed where they were. MenuDart now switches the way the Dock does and raises the app's window, and an app with no open window gets a new one. To switch, let go of ⌘, press Return after moving with the keys, or click an icon.

@@ -85,7 +85,7 @@ Gathers the icons on the right side of the menu bar (status items and menu extra
 
 ### ⌘Tab app switcher (optional)
 
-The macOS app switcher puts every open app in one row, which gets cramped on a small screen with many apps open. Turn on **Use MenuDart for ⌘Tab** in Settings → Shortcuts and <kbd>⌘</kbd><kbd>Tab</kbd> shows your open apps in several rows on a glass panel, centred on the screen with the pointer. It is off until you turn it on, and turning it off brings back the macOS switcher.
+The macOS app switcher puts every open app in one row, which gets cramped on a small screen with many apps open. Turn on **Use MenuDart for ⌘Tab** in Settings → Shortcuts and <kbd>⌘</kbd><kbd>Tab</kbd> shows your open apps in several rows on a glass panel, centred on the screen with the pointer, with the selected app's name under its icon. Switch by letting go of <kbd>⌘</kbd>, pressing <kbd>Return</kbd>, or clicking an icon: the app comes to the front with its window, and an app with no window open gets a new one. It is off until you turn it on, and turning it off brings back the macOS switcher.
 
 <p align="center">
   <img src="docs/images/cmd-tab-switcher.png" alt="MenuDart's ⌘Tab switcher showing open apps in three rows on a glass panel" width="720">
@@ -136,7 +136,7 @@ The Space and Return click assignments can be swapped in Settings. The pointer w
 | <kbd>Tab</kbd> | Open the switcher, then go to the next app |
 | <kbd>⇧</kbd><kbd>Tab</kbd> or <kbd>`</kbd> | Go to the previous app |
 | Arrow keys | Move along a row and between rows |
-| Let go of <kbd>⌘</kbd> | Switch to the selected app |
+| Let go of <kbd>⌘</kbd>, <kbd>Return</kbd>, or click | Switch to the selected app |
 | <kbd>Esc</kbd> | Cancel |
 | <kbd>Q</kbd> / <kbd>H</kbd> | Quit / hide the selected app |
 
