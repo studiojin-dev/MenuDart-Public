@@ -1,5 +1,17 @@
 # Changelog
 
+## 1.2.1 — 2026-10-22
+
+- **⌘Tab switcher**: on some Macs, choosing an app did nothing: the switcher closed but the app and its window stayed where they were. MenuDart now switches the way the Dock does and raises the app's window, and an app with no open window gets a new one. To switch, let go of ⌘, press Return after moving with the keys, or click an icon.
+- **Menu Bar Icons**: moving to an icon with the arrow keys now shows its name, the way pointing at it does, when icon names are hidden or the name was cut short.
+
+## 1.2.1 — 2026-10-22 (한국어)
+
+- **⌘Tab 전환기**: 일부 Mac에서 앱을 골라도 전환기만 닫히고 앱과 창은 그대로인 문제를 고쳤습니다. 이제 Dock처럼 전환하고 앱의 창을 앞으로 올리며, 열린 창이 없는 앱은 새 창을 엽니다. ⌘에서 손을 떼거나, 키로 옮긴 뒤 Return을 누르거나, 아이콘을 클릭하면 전환됩니다.
+- **메뉴 막대 아이콘**: 아이콘 이름을 숨겼거나 이름이 잘려 보일 때, 방향키로 옮겨 간 아이콘의 이름을 포인터를 올렸을 때처럼 보여 줍니다.
+
+---
+
 ## 1.2.0 — 2026-10-22
 
 - New **⌘Tab app switcher** (off by default). Turn on **Use MenuDart for ⌘Tab** in Settings → Shortcuts and ⌘Tab shows your open apps in several rows on a glass panel, centred on the screen with the pointer, instead of one long row. While holding ⌘, use Tab, ⇧Tab or ` and the arrow keys to move, let go of ⌘ to switch, Esc to cancel, and Q or H to quit or hide the selected app. Needs Accessibility.
