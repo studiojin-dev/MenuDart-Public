@@ -1,5 +1,15 @@
 # Changelog
 
+## 1.2.4 — 2026-10-23
+
+- **Menu Bar Icons**: on some Macs, an icon that opens a window instead of a menu (a dashboard or main window, for example) could open it behind your other windows, or show a notice that nothing happened. MenuDart now brings that app and its window to the front.
+
+## 1.2.4 — 2026-10-23 (한국어)
+
+- **메뉴 막대 아이콘**: 일부 Mac에서 메뉴 대신 창(대시보드나 기본 창 등)을 여는 아이콘을 고르면, 그 창이 다른 창들 뒤에 열리거나 아무 반응이 없다는 안내가 뜰 수 있었습니다. 이제 그 앱과 창을 앞으로 가져옵니다.
+
+---
+
 ## 1.2.3 — 2026-10-22
 
 - **⌘Tab switcher**: the hint in Settings → Shortcuts and the tutorial page now say that the selected app's name appears under its icon, and that you switch by letting go of ⌘, pressing Return, or clicking an icon. Updated in all 11 languages.

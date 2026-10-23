@@ -6,6 +6,20 @@
     <description>MenuDart updates</description>
     <language>en</language>
     <item>
+      <title>MenuDart 1.2.4</title>
+      <pubDate>Fri, 23 Oct 2026 13:32:00 +0900</pubDate>
+      <sparkle:version>17</sparkle:version>
+      <sparkle:shortVersionString>1.2.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <h2>MenuDart 1.2.4</h2>
+        <ul>
+          <li>Fixed: in Menu Bar Icons, an icon that opens a window instead of a menu could open it behind other windows, or say nothing happened, on some Macs. MenuDart now brings the app and its window to the front.</li>
+        </ul>
+      ]]></description>
+      <enclosure url="https://github.com/studiojin-dev/MenuDart-Public/releases/download/v1.2.4/MenuDart-1.2.4.dmg" sparkle:edSignature="U8/iU9YU6ON5HUoMfzLDxkC0tLVrxu/m77mxe7IX93VdIsnxHUh41tQfB77Z5vYknbKiIMHohahtxQSsv0wZCA==" length="3882144" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>MenuDart 1.2.3</title>
       <pubDate>Thu, 22 Oct 2026 22:04:17 +0900</pubDate>
       <sparkle:version>16</sparkle:version>
