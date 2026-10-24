@@ -2,13 +2,13 @@
 
 [한국어](EULA.ko.md) · The Korean version prevails if the two versions differ.
 
-*Version 1.0 · Effective October 5, 2026*
+*Version 1.1 · Effective October 24, 2026*
 
 This End User License Agreement ("Agreement") is between you and Studiojin (스튜디오진) ("we", "us"), the developer of MenuDart (the "Software"). By installing, activating, or using the Software, you agree to this Agreement. If you do not agree, do not use the Software.
 
 ## 1. License
 
-Subject to this Agreement, we grant you a non-exclusive, non-transferable license to install and use the Software for personal or business purposes. One purchase provides one license key. You may activate that key on as many Macs as the activation limit shown at purchase. The license is perpetual and does not expire unless it ends under Section 9. The Software is licensed, not sold.
+Subject to this Agreement, we grant you a non-exclusive, non-transferable license to install and use the Software for personal or business purposes. One purchase provides one license key for one person: you. You may activate that key on up to five Macs that you own or use yourself (the "activation limit"). If an organization buys the Software, each person who uses it needs their own license. The license is perpetual and does not expire unless it ends under Section 9. The Software is licensed, not sold.
 
 ## 2. Free Trial
 
@@ -22,7 +22,7 @@ A license covers MenuDart version 1 (all 1.x releases). A future major version (
 
 You may not:
 
-(a) share, publish, sell, or otherwise distribute your license key, or let others use it beyond the activation limit;
+(a) share, publish, sell, or otherwise distribute your license key, or let anyone other than you use it, even within the activation limit;
 
 (b) bypass, disable, or modify the trial or license checks;
 

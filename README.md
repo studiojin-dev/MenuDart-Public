@@ -158,7 +158,7 @@ The Space and Return click assignments can be swapped in Settings. The pointer w
 <p align="center">
   <img src="docs/images/smoke-menu.png" alt="The App Menus popup in the Smoke theme over a colorful window, with Format › Prevent Editing selected" width="560">
 </p>
-- **Language.** English, Korean, Japanese, Simplified Chinese, Traditional Chinese, Portuguese (Brazil), Spanish, Hindi, Italian, German and French. The app restarts when you change it.
+- **Language.** English, Korean, Japanese, Simplified Chinese, Traditional Chinese, Portuguese (Brazil), Spanish, Hindi, Italian, German, French, Indonesian, Dutch, Polish, Russian, Thai, Turkish and Vietnamese. The app restarts when you change it.
 
 ## Requirements and permissions
 

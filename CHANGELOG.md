@@ -1,5 +1,19 @@
 # Changelog
 
+## 1.2.5 — 2026-10-24
+
+- **⌘Tab switcher**: a new Icon Layout option in Settings → Shortcuts. "Match the Screen's Shape" grows the rows along the screen's longer side and starts a new row before they get too long; on a 16:9 screen, 4 apps sit as 3 + 1 and 9 as 3 × 3. "Fill the Screen Width" keeps the previous layout and stays the default. The tutorial's ⌘Tab page explains both.
+- **Languages**: MenuDart is now also available in Indonesian, Dutch, Polish, Russian, Thai, Turkish and Vietnamese, for 18 languages in all.
+- **License agreement 1.1**: one license is for the one person who bought it, who can activate it on up to 5 of their own Macs; it isn't for sharing with others. MenuDart asks you to agree to the updated agreement once after updating.
+
+## 1.2.5 — 2026-10-24 (한국어)
+
+- **⌘Tab 전환기**: 설정 → 단축키에 아이콘 배치 옵션이 생겼습니다. "화면 비율에 맞추기"는 화면의 긴 쪽으로 먼저 늘리다가 너무 길어지기 전에 줄을 바꿉니다. 16:9 화면에서는 앱 4개가 3 + 1, 9개가 3 × 3으로 놓입니다. "화면 너비만큼 채우기"는 기존 배치이며 기본값입니다. 튜토리얼의 ⌘Tab 페이지에서 두 방식을 설명합니다.
+- **언어**: 인도네시아어, 네덜란드어, 폴란드어, 러시아어, 태국어, 튀르키예어, 베트남어를 추가해 18개 언어를 지원합니다.
+- **사용권 계약 1.1**: 라이선스 하나는 구매한 한 사람을 위한 것으로, 본인이 쓰는 Mac 5대까지 활성화할 수 있습니다. 다른 사람과 나눠 쓰는 용도는 아닙니다. 업데이트 후 한 번 바뀐 계약에 동의를 요청합니다.
+
+---
+
 ## 1.2.4 — 2026-10-23
 
 - **Menu Bar Icons**: on some Macs, an icon that opens a window instead of a menu (a dashboard or main window, for example) could open it behind your other windows, or show a notice that nothing happened. MenuDart now brings that app and its window to the front.
