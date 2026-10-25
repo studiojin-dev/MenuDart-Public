@@ -8,6 +8,8 @@
 
 [English](README.md) | 한국어
 
+<a href="https://github.com/studiojin-dev/MenuDart-Public/releases"><img src="https://img.shields.io/github/downloads/studiojin-dev/MenuDart-Public/total?label=%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C&color=2e7d32" alt="GitHub Releases 누적 다운로드 수"></a>
+
 <img src="docs/images/demo-menu-bar-icons.gif" alt="MenuDart가 메뉴 막대 아이콘을 격자 팝업으로 모아 보여 주고, 열린 메뉴 위로 포인터를 옮기는 모습" width="720">
 
 <sub>스크린샷과 데모는 영어 화면으로 찍었습니다. 앱은 한국어를 포함한 18개 언어를 지원합니다.</sub>

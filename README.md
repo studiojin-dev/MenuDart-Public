@@ -8,6 +8,8 @@
 
 English | [한국어](README.ko.md)
 
+<a href="https://github.com/studiojin-dev/MenuDart-Public/releases"><img src="https://img.shields.io/github/downloads/studiojin-dev/MenuDart-Public/total?label=downloads&color=2e7d32" alt="Total downloads from GitHub Releases"></a>
+
 <img src="docs/images/demo-menu-bar-icons.gif" alt="MenuDart gathers menu bar icons into a grid popup and moves the pointer to the menu you open" width="720">
 
 </div>
