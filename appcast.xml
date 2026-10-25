@@ -6,6 +6,22 @@
     <description>MenuDart updates</description>
     <language>en</language>
     <item>
+      <title>MenuDart 1.3.0-beta.1</title>
+      <pubDate>Mon, 26 Oct 2026 08:30:36 +0900</pubDate>
+      <sparkle:channel>beta</sparkle:channel>
+      <sparkle:version>19</sparkle:version>
+      <sparkle:shortVersionString>1.3.0-beta.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <h2>MenuDart 1.3.0-beta.1 (beta)</h2>
+        <ul>
+          <li>New: an Apps popup lists your installed apps like Launchpad did, in your own order, with folders and search. Set its shortcut in Settings → Shortcuts.</li>
+          <li>Click a folder to open a row of its apps under it; its corner button shows the folder full size, where you can take several apps out at once or move apps in from anywhere.</li>
+        </ul>
+      ]]></description>
+      <enclosure url="https://github.com/studiojin-dev/MenuDart-Public/releases/download/v1.3.0-beta.1/MenuDart-1.3.0-beta.1.dmg" sparkle:edSignature="HD9NXN7j329lmRnbT+fxIFOWixoVI73IK50/SU+xc8qGDOoHmil5me1GcPvdZZFX/Bl3QMNirSwLn89Es9vDCA==" length="4242157" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>MenuDart 1.2.5</title>
       <pubDate>Sat, 24 Oct 2026 21:31:47 +0900</pubDate>
       <sparkle:version>18</sparkle:version>
