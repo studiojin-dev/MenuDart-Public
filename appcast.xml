@@ -6,6 +6,22 @@
     <description>MenuDart updates</description>
     <language>en</language>
     <item>
+      <title>MenuDart 1.3.0-beta.8</title>
+      <pubDate>Mon, 26 Oct 2026 22:39:39 +0900</pubDate>
+      <sparkle:channel>beta</sparkle:channel>
+      <sparkle:version>26</sparkle:version>
+      <sparkle:shortVersionString>1.3.0-beta.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <h2>MenuDart 1.3.0-beta.8 (beta)</h2>
+        <ul>
+          <li>Icons now move on a spring when you rearrange them, the way macOS moves things.</li>
+          <li>A folder's row of apps unfolds when you open it and folds away when you close it.</li>
+        </ul>
+      ]]></description>
+      <enclosure url="https://github.com/studiojin-dev/MenuDart-Public/releases/download/v1.3.0-beta.8/MenuDart-1.3.0-beta.8.dmg" sparkle:edSignature="tu6PlocIssy6tckhZ++lWEXx/eefxnsIF3m6cTxZKSg4PXg/AwUMg4pI2EfNHIMoItkCyStgoma2l/A42MHqBQ==" length="4566008" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>MenuDart 1.3.0-beta.7</title>
       <pubDate>Mon, 26 Oct 2026 21:46:14 +0900</pubDate>
       <sparkle:channel>beta</sparkle:channel>
