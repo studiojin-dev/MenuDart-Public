@@ -6,6 +6,22 @@
     <description>MenuDart updates</description>
     <language>en</language>
     <item>
+      <title>MenuDart 1.3.0-beta.9</title>
+      <pubDate>Tue, 27 Oct 2026 05:33:46 +0900</pubDate>
+      <sparkle:channel>beta</sparkle:channel>
+      <sparkle:version>27</sparkle:version>
+      <sparkle:shortVersionString>1.3.0-beta.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <h2>MenuDart 1.3.0-beta.9 (beta)</h2>
+        <ul>
+          <li>Fixed: a dropped icon now settles from where you let it go instead of rushing in from far away.</li>
+          <li>Fixed: the Favorites row no longer leaves a wide empty space below its icons.</li>
+        </ul>
+      ]]></description>
+      <enclosure url="https://github.com/studiojin-dev/MenuDart-Public/releases/download/v1.3.0-beta.9/MenuDart-1.3.0-beta.9.dmg" sparkle:edSignature="m5jtDDavwOb548v6H0EkvFn5VwtgZKT8cew9Oen/yyWejOlQKwVyXi/wkqsoAOffi+Nkr1BDuloyjQCvGksABw==" length="4566574" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>MenuDart 1.3.0-beta.8</title>
       <pubDate>Mon, 26 Oct 2026 22:39:39 +0900</pubDate>
       <sparkle:channel>beta</sparkle:channel>
