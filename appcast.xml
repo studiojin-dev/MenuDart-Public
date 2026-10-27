@@ -6,6 +6,23 @@
     <description>MenuDart updates</description>
     <language>en</language>
     <item>
+      <title>MenuDart 1.3.0-beta.10</title>
+      <pubDate>Tue, 27 Oct 2026 16:22:19 +0900</pubDate>
+      <sparkle:channel>beta</sparkle:channel>
+      <sparkle:version>28</sparkle:version>
+      <sparkle:shortVersionString>1.3.0-beta.10</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <h2>MenuDart 1.3.0-beta.10 (beta)</h2>
+        <ul>
+          <li>Fixed: Menu Bar Icons now shows apps that run only in the background, such as LightsOut.</li>
+          <li>Fixed: macOS's « / » button no longer appears in Menu Bar Icons, and apps no longer show up twice.</li>
+          <li>Fixed: when Menu Bar Icons opens, the selected icon's name is shown right away.</li>
+        </ul>
+      ]]></description>
+      <enclosure url="https://github.com/studiojin-dev/MenuDart-Public/releases/download/v1.3.0-beta.10/MenuDart-1.3.0-beta.10.dmg" sparkle:edSignature="wPXD/qfh9phkdETbhfluG0n8Bsr+kLWCyPcDabdyMm/aZ4QXHOxMxUdDAoSKKy8AjLGGYLeUUKfEw5MbAkOyDA==" length="4569623" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>MenuDart 1.3.0-beta.9</title>
       <pubDate>Tue, 27 Oct 2026 05:33:46 +0900</pubDate>
       <sparkle:channel>beta</sparkle:channel>
