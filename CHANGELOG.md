@@ -1,5 +1,27 @@
 # Changelog
 
+## 1.3.0 — 2026-10-27
+
+- **Apps popup (new)**: all your installed apps in one popup, like Launchpad was. Open it with its own shortcut (⌥⌘' is suggested in Settings → Shortcuts) or from the MenuDart menu. Drag icons into your own order, drop one app onto another to make a folder, and type to find an app (Korean initial consonants work too). It needs no permissions.
+- **Folders**: click a folder to unfold a row of its apps under it. The button on its corner shows it full size, where you can rename it, take several apps out with **Remove**, or bring apps in with **Move…**. A new folder opens with its name selected so you can type it right away.
+- **Favorites and categories**: click 📌 on an app or folder to keep it in a Favorites row at the top. The toggle next to the search field switches to a category view with the same groups as macOS's Apps screen, which works with the arrow keys too.
+- **Full screen**: Settings → Apps → Show As can show the Apps popup over the whole screen with bigger icons, like Launchpad.
+- **Spring motion**: icons in the Apps and Menu Bar Icons popups glide into place on a spring when they move, and folder rows unfold and fold away.
+- **Menu Bar Icons**: icons of apps that run only in the background (such as LightsOut) now appear; the « / » button macOS 27 adds to the menu bar is left out, and no app appears twice. When the popup opens, the selected icon's name is shown right away.
+- **Tutorial**: a new Apps page explains the popup, its keys and folders, in all 18 languages.
+
+## 1.3.0 — 2026-10-27 (한국어)
+
+- **앱 팝업(새 기능)**: 설치된 앱을 Launchpad처럼 한 팝업에 모아 보여 줍니다. 전용 단축키(설정 → 단축키, ⌥⌘' 추천)나 MenuDart 메뉴로 엽니다. 아이콘을 끌어 순서를 정하고, 앱을 다른 앱 위에 놓아 폴더를 만들고, 이름을 입력해 앱을 찾습니다(한글 초성 검색 지원). 권한이 필요 없습니다.
+- **폴더**: 폴더를 누르면 그 아래에 앱들이 한 줄로 펼쳐집니다. 모서리 버튼으로 폴더를 크게 보여 주며, 여기서 이름을 바꾸고 **제거**로 여러 앱을 빼거나 **이동…**으로 앱을 골라 넣습니다. 새 폴더는 이름이 선택된 채 열려 바로 입력할 수 있습니다.
+- **즐겨찾기와 카테고리**: 앱이나 폴더의 📌를 누르면 맨 위 즐겨찾기 줄에 들어갑니다. 검색창 옆 버튼으로 macOS 앱 화면과 같은 묶음의 카테고리 보기로 바꿀 수 있고, 방향키로도 다룰 수 있습니다.
+- **전체 화면**: 설정 → 앱 → 보기 방식에서 앱 팝업을 Launchpad처럼 화면 전체에 큰 아이콘으로 띄울 수 있습니다.
+- **스프링 움직임**: 앱 팝업과 메뉴 막대 아이콘 팝업의 아이콘이 움직일 때 스프링처럼 부드럽게 제자리를 찾고, 폴더 줄도 펼쳐지고 접힙니다.
+- **메뉴 막대 아이콘**: 백그라운드에서만 실행되는 앱(LightsOut 등)의 아이콘도 나옵니다. macOS 27이 메뉴 막대에 넣는 « / » 버튼은 빼고, 같은 앱이 두 번 나오지 않습니다. 팝업을 열면 선택된 아이콘의 이름이 바로 보입니다.
+- **튜토리얼**: 앱 팝업과 키, 폴더를 설명하는 페이지가 18개 언어로 추가됐습니다.
+
+---
+
 ## 1.2.5 — 2026-10-24
 
 - **⌘Tab switcher**: a new Icon Layout option in Settings → Shortcuts. "Match the Screen's Shape" grows the rows along the screen's longer side and starts a new row before they get too long; on a 16:9 screen, 4 apps sit as 3 + 1 and 9 as 3 × 3. "Fill the Screen Width" keeps the previous layout and stays the default. The tutorial's ⌘Tab page explains both.

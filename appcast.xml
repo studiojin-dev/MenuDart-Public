@@ -6,6 +6,23 @@
     <description>MenuDart updates</description>
     <language>en</language>
     <item>
+      <title>MenuDart 1.3.0</title>
+      <pubDate>Tue, 27 Oct 2026 16:43:15 +0900</pubDate>
+      <sparkle:version>29</sparkle:version>
+      <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <h2>MenuDart 1.3.0</h2>
+        <ul>
+          <li>New: an Apps popup lists your installed apps like Launchpad did. Arrange them in your own order, make folders, pin favorites, browse by category, and type to search. It can also open full screen.</li>
+          <li>Icons in the Apps and Menu Bar Icons popups glide into place on a spring.</li>
+          <li>Menu Bar Icons now shows apps that run only in the background, leaves out macOS's « / » button, and shows the selected icon's name when it opens.</li>
+          <li>The tutorial has a new Apps page.</li>
+        </ul>
+      ]]></description>
+      <enclosure url="https://github.com/studiojin-dev/MenuDart-Public/releases/download/v1.3.0/MenuDart-1.3.0.dmg" sparkle:edSignature="n3akQmqyyGL7Ewn21NodiB9DK+jpReytvV+lZR1tbfIcPLOcJPlvNlhgXuqo0a8hSWOmlsc7BZBVdUDEn3aoAw==" length="4569584" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>MenuDart 1.3.0-beta.10</title>
       <pubDate>Tue, 27 Oct 2026 16:22:19 +0900</pubDate>
       <sparkle:channel>beta</sparkle:channel>

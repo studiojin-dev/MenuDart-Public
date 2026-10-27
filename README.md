@@ -40,7 +40,7 @@ A 50-second walkthrough: a cramped MacBook menu bar, an ultrawide monitor, both 
 
 ## What it does
 
-MenuDart opens two popups from global keyboard shortcuts. You can also open either one from the MenuDart icon in the menu bar.
+MenuDart opens three popups from global keyboard shortcuts: App Menus, Menu Bar Icons and Apps. You can also open any of them from the MenuDart icon in the menu bar.
 
 ### App Menus
 
@@ -84,6 +84,18 @@ Gathers the icons on the right side of the menu bar (status items and menu extra
 <p align="center">
   <img src="docs/images/pointer-on-menu.png" alt="After choosing MenuDart in the grid, its menu is open under the menu bar and the pointer is already on it" width="720">
 </p>
+
+### Apps
+
+All your installed apps in one popup, like Launchpad was. It lists the apps in your Applications folders, Utilities included, and leaves out hidden helper apps.
+
+- **Your own order.** Drag icons to rearrange them; they glide into place. Drop an app onto another to make a folder (its name is selected so you can type it right away), or onto a folder to add it. MenuDart remembers the layout.
+- **Folders.** Click a folder to unfold a row of its apps under it, and click it again to fold it away. Drag an app out of the row to take it out of the folder. The button on an open folder's corner shows it full size, where you can rename it, take several apps out at once with **Remove**, or bring apps in from anywhere with **Move…**.
+- **Favorites.** Point at an app or folder and click 📌 in its corner to keep it in the Favorites row at the top. You can also pin from the right-click menu.
+- **Category view.** The toggle next to the search field switches to categories (Utilities, Developer Tools, Productivity & Finance and more, the same groups as macOS's Apps screen), with how many apps each has.
+- **Search.** Start typing to find an app by name (Korean initial consonants work too) and press <kbd>Return</kbd> to open it.
+- **Popup or full screen.** Settings → Apps → **Show As** chooses **Popup Next to the Pointer** (the default) or **Full Screen, Like Launchpad**, with bigger icons over the whole screen.
+- It needs no permissions: the list of apps is read only on your Mac.
 
 ### ⌘Tab app switcher (optional)
 
@@ -129,7 +141,18 @@ A built-in tutorial walks through every feature with its keys, options and scree
 | <kbd>Return</kbd> | Right click the icon |
 | <kbd>Esc</kbd> | Close |
 
-The Space and Return click assignments can be swapped in Settings. The pointer works in both popups too.
+The Space and Return click assignments can be swapped in Settings. The pointer works in every popup too.
+
+**Apps**
+
+| Key | Action |
+|---|---|
+| Arrow keys | Choose an app or folder |
+| Type letters | Search apps by name |
+| <kbd>Return</kbd> | Open the app, or open or close a folder's row |
+| <kbd>Esc</kbd> | Step back one level, then close |
+
+In the category view, <kbd>↑</kbd> / <kbd>↓</kbd> choose a category, <kbd>→</kbd> or <kbd>Return</kbd> move into its apps, and <kbd>←</kbd> from the first column goes back to the categories.
 
 **⌘Tab app switcher** (while holding <kbd>⌘</kbd>)
 
@@ -148,9 +171,10 @@ The Space and Return click assignments can be swapped in Settings. The pointer w
   <img src="docs/images/settings.png" alt="The MenuDart Settings window" width="400">
 </p>
 
-- **Shortcuts.** There are none until you set them. The setup guide offers one-click defaults: <kbd>⌥</kbd><kbd>⌘</kbd><kbd>[</kbd> for App Menus, <kbd>⌥</kbd><kbd>⌘</kbd><kbd>]</kbd> for Menu Bar Icons, and an optional <kbd>⌥</kbd><kbd>⌘</kbd><kbd>\\</kbd> for Settings. You can record any combination that includes at least one modifier key.
+- **Shortcuts.** There are none until you set them. The setup guide offers one-click defaults: <kbd>⌥</kbd><kbd>⌘</kbd><kbd>[</kbd> for App Menus, <kbd>⌥</kbd><kbd>⌘</kbd><kbd>]</kbd> for Menu Bar Icons, <kbd>⌥</kbd><kbd>⌘</kbd><kbd>'</kbd> for Apps, and an optional <kbd>⌥</kbd><kbd>⌘</kbd><kbd>\\</kbd> for Settings. You can record any combination that includes at least one modifier key.
 - **Conflict check.** MenuDart warns you if a combination is already used by another MenuDart action or a macOS system shortcut, and lets you move it, register it anyway, or cancel.
 - **App Menu layout.** Classic opens submenus in columns side by side; Outline shows every menu in one tree with search.
+- **Apps.** Show the Apps popup next to the pointer or full screen, like Launchpad.
 - **⌘Tab app switcher.** Off by default. Turn on **Use MenuDart for ⌘Tab** in Settings → Shortcuts to use MenuDart's multi-row switcher instead of the macOS one.
 - **Tutorial.** Settings → General → **Tutorial** opens the feature tutorial again.
 - **Menu Bar Icons grid.** Set the number of icons per row (3 to 15), where the pointer lands when the popup opens (center of the first item or center of the popup), and whether icon names are shown.
@@ -169,7 +193,7 @@ The Space and Return click assignments can be swapped in Settings. The pointer w
 
 | Permission | Required? | What it's for | Without it |
 |---|---|---|---|
-| Accessibility | Yes | Reading the front app's menus, pressing menu bar icons, and the optional ⌘Tab switcher | Neither popup (nor the ⌘Tab switcher) works |
+| Accessibility | Yes | Reading the front app's menus, pressing menu bar icons, and the optional ⌘Tab switcher | The App Menus and Menu Bar Icons popups and the ⌘Tab switcher don't work (the Apps popup still does) |
 | Screen Recording | Recommended, optional | Showing the real menu bar icon images in the grid | The grid shows each app's own icon instead |
 
 MenuDart captures only the menu bar icons it shows in the popup. It doesn't save those images or send them anywhere. MenuDart doesn't collect or send your data; the only network request is the update check, which contacts GitHub to fetch the update feed.
@@ -188,7 +212,7 @@ MenuDart is signed with a Developer ID and notarized by Apple. It is distributed
 
 ### How do I allow Accessibility?
 
-Open System Settings › Privacy & Security › Accessibility and turn on MenuDart. The setup guide walks you through this on first launch. Accessibility is required for both popups.
+Open System Settings › Privacy & Security › Accessibility and turn on MenuDart. The setup guide walks you through this on first launch. Accessibility is required for the App Menus and Menu Bar Icons popups.
 
 ### How do I allow Screen Recording?
 
