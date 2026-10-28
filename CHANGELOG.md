@@ -1,5 +1,19 @@
 # Changelog
 
+## 1.3.1 — 2026-10-28
+
+- **Menu Bar Icons**: on macOS 27 Golden Gate, icons tucked behind the « button were missing from the popup, because macOS hides them from other apps too. The popup now shows them out while it is open and tucks them away again when you close it. If you pick one of them, they stay out until its menu closes. If you showed them yourself, MenuDart leaves them showing.
+- **Menu Bar Icons**: the input source icon (한, A and so on) is named "Input Source" in your language instead of an internal process name, so search finds it too.
+- **Menu Bar Icons**: some apps' hidden windows no longer show up as extra icons.
+
+## 1.3.1 — 2026-10-28 (한국어)
+
+- **메뉴 막대 아이콘**: macOS 27 Golden Gate에서 « 버튼 뒤로 숨긴 아이콘은 다른 앱에도 보이지 않아 팝업에 나오지 않았습니다. 이제 팝업이 열려 있는 동안 숨은 아이콘을 펼쳐 보여 주고, 팝업을 닫으면 다시 숨깁니다. 숨은 아이콘 중 하나를 고르면 그 메뉴가 닫힐 때까지 펼쳐 둡니다. 직접 펼쳐 둔 상태라면 그대로 둡니다.
+- **메뉴 막대 아이콘**: 입력 소스 아이콘(한, A 등)이 내부 프로세스 이름 대신 각 언어의 "입력 소스"로 표시되어 검색으로도 찾을 수 있습니다.
+- **메뉴 막대 아이콘**: 일부 앱의 숨은 창이 아이콘으로 더 나오던 문제를 고쳤습니다.
+
+---
+
 ## 1.3.0 — 2026-10-27
 
 - **Apps popup (new)**: all your installed apps in one popup, like Launchpad was. Open it with its own shortcut (⌥⌘' is suggested in Settings → Shortcuts) or from the MenuDart menu. Drag icons into your own order, drop one app onto another to make a folder, and type to find an app (Korean initial consonants work too). It needs no permissions.

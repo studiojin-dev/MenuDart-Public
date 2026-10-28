@@ -66,7 +66,7 @@ Shows the frontmost app's menu bar menus (Apple menu, File, Edit, and so on) in 
 
 ### Menu Bar Icons
 
-Gathers the icons on the right side of the menu bar (status items and menu extras, including Control Center ones) into a grid, including icons hidden because the menu bar is too crowded or cut off by the notch.
+Gathers the icons on the right side of the menu bar (status items and menu extras, including Control Center ones) into a grid, including icons hidden because the menu bar is too crowded or cut off by the notch, and, on macOS 27 Golden Gate, icons you tucked away behind the « button.
 
 <p align="center">
   <img src="docs/images/menu-bar-icons.png" alt="The Menu Bar Icons grid popup listing every menu bar icon, including the ones that don't fit in the menu bar" width="720">
@@ -234,7 +234,7 @@ No. The icon's menu opens where the app and macOS put it, and MenuDart doesn't r
 
 ### Does MenuDart hide or rearrange my menu bar icons?
 
-No. MenuDart doesn't change your menu bar at all. It shows what's there in a popup.
+No. MenuDart doesn't rearrange your menu bar. It shows what's there in a popup. The one thing it touches is macOS 27 Golden Gate's « button: macOS hides the icons behind it from other apps too, so while the Menu Bar Icons popup is open MenuDart shows them out, and tucks them away again when the popup closes (or, if you picked one of them, once its menu closes). If you showed them yourself, MenuDart leaves them as they are.
 
 ## Support
 

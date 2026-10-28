@@ -6,6 +6,22 @@
     <description>MenuDart updates</description>
     <language>en</language>
     <item>
+      <title>MenuDart 1.3.1</title>
+      <pubDate>Wed, 28 Oct 2026 10:52:12 +0900</pubDate>
+      <sparkle:version>31</sparkle:version>
+      <sparkle:shortVersionString>1.3.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <h2>MenuDart 1.3.1</h2>
+        <ul>
+          <li>Fixed: on macOS 27, Menu Bar Icons now shows the icons tucked behind «, and tucks them away again when you close it.</li>
+          <li>Fixed: the input source icon is named "Input Source" in your language.</li>
+          <li>Fixed: some apps' hidden windows no longer show up as extra icons.</li>
+        </ul>
+      ]]></description>
+      <enclosure url="https://github.com/studiojin-dev/MenuDart-Public/releases/download/v1.3.1/MenuDart-1.3.1.dmg" sparkle:edSignature="heY34RmGxvKkY4szMKsrWGzccxptkoqRWEH1Jc70sGduvJ6ytB2S2MxWKQfnnrAKo28ApIp1D3WIVGn3riJcBg==" length="4605438" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>MenuDart 1.3.1-beta.1</title>
       <pubDate>Wed, 28 Oct 2026 10:46:57 +0900</pubDate>
       <sparkle:channel>beta</sparkle:channel>
