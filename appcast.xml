@@ -6,6 +6,22 @@
     <description>MenuDart updates</description>
     <language>en</language>
     <item>
+      <title>MenuDart 1.3.2-beta.1</title>
+      <pubDate>Sat, 07 Nov 2026 16:01:11 +0900</pubDate>
+      <sparkle:channel>beta</sparkle:channel>
+      <sparkle:version>32</sparkle:version>
+      <sparkle:shortVersionString>1.3.2-beta.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <h2>MenuDart 1.3.2-beta.1 (beta)</h2>
+        <ul>
+          <li>New: the ⌘Tab switcher shows the same red notification badges as the Dock on app icons.</li>
+          <li>New: Settings › Shortcuts can turn the badges and the selected app's name on or off. Both are on by default.</li>
+        </ul>
+      ]]></description>
+      <enclosure url="https://github.com/studiojin-dev/MenuDart-Public/releases/download/v1.3.2-beta.1/MenuDart-1.3.2-beta.1.dmg" sparkle:edSignature="i7eFOim31+Ji9i+97ef1kWMcMTUJRZlzw6rj06lIXYLtto31xDBHQHNiuOYC7KhMqT8I8asu+Wkjk09mVNZoAA==" length="4609898" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>MenuDart 1.3.1</title>
       <pubDate>Wed, 28 Oct 2026 10:52:12 +0900</pubDate>
       <sparkle:version>31</sparkle:version>
