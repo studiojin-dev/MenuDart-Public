@@ -102,7 +102,7 @@ All your installed apps in one popup, like Launchpad was. It lists the apps in y
 The macOS app switcher puts every open app in one row, which gets cramped on a small screen with many apps open. Turn on **Use MenuDart for ⌘Tab** in Settings → Shortcuts and <kbd>⌘</kbd><kbd>Tab</kbd> shows your open apps in several rows on a glass panel, centred on the screen with the pointer, with each app's name under its icon and the same red notification badges as the Dock (unread counts and so on). Settings can turn off the badges, or show only the selected app's name. Switch by letting go of <kbd>⌘</kbd>, pressing <kbd>Return</kbd>, or clicking an icon: the app comes to the front with its window, and an app with no window open gets a new one. It is off until you turn it on, and turning it off brings back the macOS switcher.
 
 <p align="center">
-  <img src="docs/images/cmd-tab-switcher.png" alt="MenuDart's ⌘Tab switcher showing open apps in three rows on a glass panel" width="720">
+  <img src="docs/images/cmd-tab-switcher.png" alt="MenuDart's ⌘Tab switcher showing open apps in rows on a glass panel, each with its name under it and red notification badges on some (icons and names blurred)" width="720">
 </p>
 
 ### Tutorial
