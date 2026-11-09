@@ -1,5 +1,17 @@
 # Changelog
 
+## 1.3.2 — 2026-11-09
+
+- **⌘Tab switcher**: icons now show the same red notification badges as the Dock, such as unread message counts. Turn them off with **Show Notification Badges** in Settings › Shortcuts.
+- **⌘Tab switcher**: with **Show All App Names** in Settings › Shortcuts, every app's name appears under its icon, not just the selected one's. Both options are on by default, and the tutorial's ⌘Tab page explains them.
+
+## 1.3.2 — 2026-11-09 (한국어)
+
+- **⌘Tab 스위처**: 아이콘에 Dock과 같은 빨간 알림 배지(읽지 않은 메시지 수 등)가 표시됩니다. 설정 › 단축키의 **알림 배지 표시**로 끌 수 있습니다.
+- **⌘Tab 스위처**: 설정 › 단축키의 **모든 앱 이름 표시**를 켜면 선택한 앱뿐 아니라 모든 앱의 이름이 아이콘 아래에 나옵니다. 두 옵션 모두 처음에는 켜져 있으며, 튜토리얼의 ⌘Tab 페이지에서도 설명합니다.
+
+---
+
 ## 1.3.1 — 2026-10-28
 
 - **Menu Bar Icons**: on macOS 27 Golden Gate, icons tucked behind the « button were missing from the popup, because macOS hides them from other apps too. The popup now shows them out while it is open and tucks them away again when you close it. If you pick one of them, they stay out until its menu closes. If you showed them yourself, MenuDart leaves them showing.
