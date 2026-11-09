@@ -1,5 +1,15 @@
 # Changelog
 
+## 1.3.3 — 2026-11-09
+
+- **Tutorial**: the ⌘Tab page's screenshot shows the switcher as it looks now, with app names under every icon and notification badges.
+
+## 1.3.3 — 2026-11-09 (한국어)
+
+- **튜토리얼**: ⌘Tab 페이지의 스크린샷을 아이콘마다 앱 이름과 알림 배지가 보이는 지금 모습으로 바꿨습니다.
+
+---
+
 ## 1.3.2 — 2026-11-09
 
 - **⌘Tab switcher**: icons now show the same red notification badges as the Dock, such as unread message counts. Turn them off with **Show Notification Badges** in Settings › Shortcuts.
