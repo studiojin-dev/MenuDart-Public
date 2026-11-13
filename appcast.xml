@@ -6,6 +6,21 @@
     <description>MenuDart updates</description>
     <language>en</language>
     <item>
+      <title>MenuDart 1.3.4-beta.1</title>
+      <pubDate>Fri, 13 Nov 2026 17:28:05 +0900</pubDate>
+      <sparkle:channel>beta</sparkle:channel>
+      <sparkle:version>36</sparkle:version>
+      <sparkle:shortVersionString>1.3.4-beta.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <h2>MenuDart 1.3.4-beta.1 (beta)</h2>
+        <ul>
+          <li>New: Settings › License can make a $2 discount link to share with a friend. Each link works once and lasts 30 days; you can hold up to 3 unused links at a time.</li>
+        </ul>
+      ]]></description>
+      <enclosure url="https://github.com/studiojin-dev/MenuDart-Public/releases/download/v1.3.4-beta.1/MenuDart-1.3.4-beta.1.dmg" sparkle:edSignature="b9i18TgFi7B8aA74JTlwbHETYvyA78qbCtyzyd+T6HR0GML2hdKqN2o7cTTF7bxHwLGAaw0ycuXcRCKYZiO1Cw==" length="4796257" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>MenuDart 1.3.3</title>
       <pubDate>Mon, 09 Nov 2026 11:12:30 +0900</pubDate>
       <sparkle:version>35</sparkle:version>

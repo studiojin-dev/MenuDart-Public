@@ -2,9 +2,9 @@
 
 English | [한국어](PRIVACY.ko.md)
 
-Effective date: October 12, 2026
+Effective date: November 13, 2026
 
-Studiojin ("we") makes MenuDart, a macOS menu bar app. This policy explains what MenuDart does with your information. In short: **MenuDart has no accounts, no analytics, no advertising, no tracking and no cookies.** It goes online only to check for updates, to check your license and, before you buy, to check for a running sale.
+Studiojin ("we") makes MenuDart, a macOS menu bar app. This policy explains what MenuDart does with your information. In short: **MenuDart has no accounts, no analytics, no advertising, no tracking and no cookies.** It goes online only to check for updates, to check your license, before you buy to check for a running sale, and when you ask for a discount link to share with a friend.
 
 ## What stays on your Mac
 
@@ -24,6 +24,7 @@ MenuDart connects to the internet only for the purposes below. It does not send 
 | Update check | GitHub (`raw.githubusercontent.com`, `github.com`) | A request for the update feed, with MenuDart's version in the request header. MenuDart does not send a system profile. | Once a day if automatic checks are on (you can turn them off in Settings → Updates), and when you choose Check for Updates. Downloading an update also comes from GitHub. |
 | License activation and check | Lemon Squeezy (`api.lemonsqueezy.com`) | Your license key, and your Mac's computer name when you activate (so you can tell your Macs apart). Later checks send the license key and the activation ID. | When you activate or deactivate a license, and about once a day after activation. |
 | Sale check | Studiojin (`studiojin.dev`) | A plain request for the current sale. No identifier or license information is sent. | Only before you activate a license, at most once every 36 hours. |
+| Friend discount link | Studiojin (`studiojin.dev`), which checks the license with Lemon Squeezy | Your license key and activation ID, so the license can be checked. We don't store the key; we keep only the order number with the links made for it, when they expire and whether they were used, to limit how many unused links an order holds at once and to cancel unused links if the order is refunded. | Only when you choose Get Link in Settings. |
 
 As with any internet connection, these services can see your IP address. Their own privacy policies apply to what they receive:
 [GitHub](https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement) ·
