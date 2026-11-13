@@ -2,7 +2,7 @@
 
 [한국어](EULA.ko.md) · The Korean version prevails if the two versions differ.
 
-*Version 1.1 · Effective October 24, 2026*
+*Version 1.1 · Effective October 24, 2026 · Section 6 updated November 13, 2026*
 
 This End User License Agreement ("Agreement") is between you and Studiojin (스튜디오진) ("we", "us"), the developer of MenuDart (the "Software"). By installing, activating, or using the Software, you agree to this Agreement. If you do not agree, do not use the Software.
 
@@ -40,6 +40,7 @@ To use your license on a different Mac when you have reached the activation limi
 - Checking for updates downloads the update feed from GitHub. You can turn off automatic checks in Settings.
 - MenuDart uses the Accessibility and Screen Recording permissions only to read and show app menus and menu bar items on your Mac. It does not upload this information.
 - The trial and license records are stored in your login keychain and MenuDart's preferences on your Mac.
+- Getting a friend discount link in Settings sends your license key and activation ID to Studiojin (studiojin.dev), which checks the license with Lemon Squeezy. This happens only when you ask for a link.
 
 ## 7. Purchases and Refunds
 
