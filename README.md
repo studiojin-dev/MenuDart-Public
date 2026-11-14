@@ -236,6 +236,10 @@ No. The icon's menu opens where the app and macOS put it, and MenuDart doesn't r
 
 No. MenuDart doesn't rearrange your menu bar. It shows what's there in a popup. The one thing it touches is macOS 27 Golden Gate's « button: macOS hides the icons behind it from other apps too, so while the Menu Bar Icons popup is open MenuDart shows them out, and tucks them away again when the popup closes (or, if you picked one of them, once its menu closes). If you showed them yourself, MenuDart leaves them as they are.
 
+### Can I give a friend a discount?
+
+Yes. With an activated license, open Settings › License and click **Get Link**. Each link gives one friend $2 off MenuDart, works once and lasts 30 days. You can hold up to 3 unused links at a time; when a friend uses one or one expires, you can get another. Links from a refunded order stop working.
+
 ## Support
 
 Found a bug or have a question? Please open an issue on [GitHub Issues](https://github.com/studiojin-dev/MenuDart-Public/issues). It helps to include your macOS version and your MenuDart version.

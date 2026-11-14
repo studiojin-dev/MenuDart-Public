@@ -1,5 +1,17 @@
 # Changelog
 
+## 1.3.4 — 2026-11-14
+
+- **Give a friend $2 off**: Settings › License › **Get Link** makes a discount link to share. Each link gives one friend $2 off MenuDart, works once and lasts 30 days. You can hold up to 3 unused links at a time; when a friend uses one or one expires, you can get another. **Copy Link** says whether the link was copied, and the text you share names the link's expiry date.
+- **Privacy policy and license agreement**: both now describe the friend link, which sends your license key and activation ID to studiojin.dev only when you click Get Link.
+
+## 1.3.4 — 2026-11-14 (한국어)
+
+- **친구에게 2달러 할인**: 설정 › 라이선스 › **링크 받기**로 친구에게 줄 할인 링크를 만들 수 있습니다. 링크 하나로 친구 한 명이 MenuDart를 2달러 싸게 살 수 있고, 한 번만 쓸 수 있으며 30일 동안 유효합니다. 안 쓴 링크는 동시에 3개까지 가질 수 있고, 친구가 하나를 쓰거나 만료되면 새 링크를 받을 수 있습니다. **링크 복사**를 누르면 복사됐는지 알려 주고, 공유 메시지에는 링크의 만료일이 들어갑니다.
+- **개인정보처리방침과 사용권 계약**: 친구 링크 내용을 추가했습니다. 링크 받기를 누를 때만 라이선스 키와 활성화 ID가 studiojin.dev로 전송됩니다.
+
+---
+
 ## 1.3.3 — 2026-11-09
 
 - **Tutorial**: the ⌘Tab page's screenshot shows the switcher as it looks now, with app names under every icon and notification badges.
