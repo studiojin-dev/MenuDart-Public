@@ -6,6 +6,20 @@
     <description>MenuDart updates</description>
     <language>en</language>
     <item>
+      <title>MenuDart 1.3.5</title>
+      <pubDate>Tue, 17 Nov 2026 22:40:59 +0900</pubDate>
+      <sparkle:version>40</sparkle:version>
+      <sparkle:shortVersionString>1.3.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <h2>MenuDart 1.3.5</h2>
+        <ul>
+          <li>Fixed: MenuDart's memory use kept growing while the Settings window was left open, reaching several gigabytes after a few days.</li>
+        </ul>
+      ]]></description>
+      <enclosure url="https://github.com/studiojin-dev/MenuDart-Public/releases/download/v1.3.5/MenuDart-1.3.5.dmg" sparkle:edSignature="vWn2uKFOb5U6y4TgCIUQ8GDz5TiERyGyPisvpHuT6mnSUqWnyWt94TogwJTzivngzNOt64kXpvyplqX7sz47Ag==" length="4817260" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>MenuDart 1.3.4</title>
       <pubDate>Sat, 14 Nov 2026 10:23:36 +0900</pubDate>
       <sparkle:version>39</sparkle:version>

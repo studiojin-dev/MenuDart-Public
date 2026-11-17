@@ -1,5 +1,15 @@
 # Changelog
 
+## 1.3.5 — 2026-11-17
+
+- **Memory use**: MenuDart no longer uses more and more memory while the Settings window is left open. Before this fix it could reach several gigabytes after a few days.
+
+## 1.3.5 — 2026-11-17 (한국어)
+
+- **메모리 사용량**: 설정 창을 열어 둔 채로 두면 MenuDart의 메모리 사용량이 계속 늘던 문제를 고쳤습니다. 며칠이 지나면 수 GB까지 늘어날 수 있었습니다.
+
+---
+
 ## 1.3.4 — 2026-11-14
 
 - **Give a friend $2 off**: Settings › License › **Get Link** makes a discount link to share. Each link gives one friend $2 off MenuDart, works once and lasts 30 days. You can hold up to 3 unused links at a time; when a friend uses one or one expires, you can get another. **Copy Link** says whether the link was copied, and the text you share names the link's expiry date.
