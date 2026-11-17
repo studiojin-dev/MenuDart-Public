@@ -2,11 +2,11 @@
 
 ## 1.3.5 — 2026-11-17
 
-- **Memory use**: MenuDart no longer uses more and more memory while the Settings window is left open. Before this fix it could reach several gigabytes after a few days.
+- **Memory use**: MenuDart no longer uses more and more memory while the Settings window is left open.
 
 ## 1.3.5 — 2026-11-17 (한국어)
 
-- **메모리 사용량**: 설정 창을 열어 둔 채로 두면 MenuDart의 메모리 사용량이 계속 늘던 문제를 고쳤습니다. 며칠이 지나면 수 GB까지 늘어날 수 있었습니다.
+- **메모리 사용량**: 설정 창을 열어 둔 채로 두면 MenuDart의 메모리 사용량이 계속 늘던 문제를 고쳤습니다.
 
 ---
 
