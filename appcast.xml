@@ -6,6 +6,21 @@
     <description>MenuDart updates</description>
     <language>en</language>
     <item>
+      <title>MenuDart 1.4.0-beta.1</title>
+      <pubDate>Mon, 23 Nov 2026 16:47:37 +0900</pubDate>
+      <sparkle:channel>beta</sparkle:channel>
+      <sparkle:version>41</sparkle:version>
+      <sparkle:shortVersionString>1.4.0-beta.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <h2>MenuDart 1.4.0-beta.1 (beta)</h2>
+        <ul>
+          <li>Prepares MenuDart's license handling for an upcoming change of payment provider. Your existing license keeps working, and there is nothing you need to do.</li>
+        </ul>
+      ]]></description>
+      <enclosure url="https://github.com/studiojin-dev/MenuDart-Public/releases/download/v1.4.0-beta.1/MenuDart-1.4.0-beta.1.dmg" sparkle:edSignature="3D37NI8Bwu/9rJfocFdIt5/6tTTwEDpvEwfmBNTAFn/ifUNzeUk9dghAuPacysPATzBzEIzknM1vZInAvVtgDw==" length="4853131" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>MenuDart 1.3.5</title>
       <pubDate>Tue, 17 Nov 2026 22:40:59 +0900</pubDate>
       <sparkle:version>40</sparkle:version>
