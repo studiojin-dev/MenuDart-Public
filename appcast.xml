@@ -6,6 +6,23 @@
     <description>MenuDart updates</description>
     <language>en</language>
     <item>
+      <title>MenuDart 1.4.0-beta.2</title>
+      <pubDate>Wed, 25 Nov 2026 18:13:57 +0900</pubDate>
+      <sparkle:channel>beta</sparkle:channel>
+      <sparkle:version>42</sparkle:version>
+      <sparkle:shortVersionString>1.4.0-beta.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <h2>MenuDart 1.4.0-beta.2 (beta)</h2>
+        <ul>
+          <li>MenuDart licenses are now handled by Dodo Payments. A license you activated before is moved over automatically the next time MenuDart can reach the internet, and keeps working offline as before, including one activated in 1.4.0-beta.1. There is nothing you need to do.</li>
+          <li>The license agreement has been updated for the new payment provider, so MenuDart asks you to agree to it again.</li>
+          <li>When another app keeps macOS Secure Input on (often a password manager's lock screen), ⌘Tab opens the macOS switcher instead of MenuDart's. Settings now says so under the ⌘Tab switcher option, and how to find the app.</li>
+        </ul>
+      ]]></description>
+      <enclosure url="https://github.com/studiojin-dev/MenuDart-Public/releases/download/v1.4.0-beta.2/MenuDart-1.4.0-beta.2.dmg" sparkle:edSignature="DiESWM3qQN1LaRwRbXfH0kZ2DKl2bjVG4ioU3pWbysxn+RkhTU+AzM3ErmOiYJSzp/npL3UjWHw8B+ltYZidDw==" length="4862881" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>MenuDart 1.4.0-beta.1</title>
       <pubDate>Mon, 23 Nov 2026 16:47:37 +0900</pubDate>
       <sparkle:channel>beta</sparkle:channel>
